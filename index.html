@@ -94,6 +94,11 @@
     content:"";position:absolute;top:-40%;right:-20%;width:70%;height:140%;
     background:radial-gradient(circle, rgba(212,255,63,0.18), transparent 65%);
   }
+  .hero-main img.bg{
+    position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+    opacity:0.35;z-index:0;
+  }
+  .hero-main > *{position:relative;z-index:1;}
   .tag{
     display:inline-block;font-family:'Oswald',sans-serif;font-weight:600;font-size:12px;
     background:var(--coral);color:#101114;padding:4px 10px;
@@ -106,7 +111,13 @@
   .side-card{
     background:var(--surface);border:1px solid var(--border);padding:18px;
     display:flex;flex-direction:column;gap:8px;flex:1;
+    position:relative;overflow:hidden;
   }
+  .side-card img.bg{
+    position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+    opacity:0.25;z-index:0;
+  }
+  .side-card > *{position:relative;z-index:1;}
   .side-card .tag{background:var(--surface-2);color:var(--lime);}
   .side-card h3{font-size:17px;}
   .side-card p{color:var(--muted);font-size:13px;}
@@ -130,6 +141,7 @@
     height:140px;position:relative;overflow:hidden;
     background:linear-gradient(145deg,var(--surface-2),#14151a);
   }
+  .card-media img{width:100%;height:100%;object-fit:cover;}
   .card-media::after{
     content:attr(data-cat);
     position:absolute;bottom:0;left:0;font-family:'Oswald',sans-serif;font-size:11px;font-weight:600;
@@ -188,12 +200,12 @@
 <script>
 // Örnek/başlangıç verisi — articles.json bulunamazsa bu kullanılır.
 const SAMPLE_ARTICLES = [
-  {title:"Yeni nesil açık dünya oyunu tanıtıldı", category:"PC", source:"OyunHaber", url:"#", summary:"Geliştirici stüdyo, uzun süredir beklenen projesinin ilk fragmanını yayınladı."},
-  {title:"Popüler battle royale oyununa dev güncelleme geldi", category:"Konsol", source:"GameWire", url:"#", summary:"Yeni harita, silahlar ve dengeleme değişiklikleri oyuncularla buluştu."},
-  {title:"Mobil oyun pazarında yükselen trend: kısa oturum tasarımı", category:"Mobil", source:"MobilOyun", url:"#", summary:"Geliştiriciler artık daha kısa ve tekrar oynanabilir seviyelere yöneliyor."},
-  {title:"İnceleme: Yılın en çok konuşulan yapımı beklentileri karşılıyor mu?", category:"İnceleme", source:"Nişangah", url:"#", summary:"Hikaye, oynanış ve teknik performans açısından detaylı değerlendirme."},
-  {title:"E-spor turnuvasında sürpriz sonuç", category:"E-spor", source:"ESporTR", url:"#", summary:"Alt sıradaki takım finale kalarak favorileri elemeyi başardı."},
-  {title:"Donanım fiyatlarında yeni sezon indirimleri başladı", category:"Fırsat", source:"TeknoOyun", url:"#", summary:"Ekran kartı ve konsol fiyatlarında dikkat çekici düşüşler gözlemleniyor."}
+  {title:"Yeni nesil açık dünya oyunu tanıtıldı", category:"PC", source:"OyunHaber", url:"#", summary:"Geliştirici stüdyo, uzun süredir beklenen projesinin ilk fragmanını yayınladı.", image:null},
+  {title:"Popüler battle royale oyununa dev güncelleme geldi", category:"Konsol", source:"GameWire", url:"#", summary:"Yeni harita, silahlar ve dengeleme değişiklikleri oyuncularla buluştu.", image:null},
+  {title:"Mobil oyun pazarında yükselen trend: kısa oturum tasarımı", category:"Mobil", source:"MobilOyun", url:"#", summary:"Geliştiriciler artık daha kısa ve tekrar oynanabilir seviyelere yöneliyor.", image:null},
+  {title:"İnceleme: Yılın en çok konuşulan yapımı beklentileri karşılıyor mu?", category:"İnceleme", source:"Nişangah", url:"#", summary:"Hikaye, oynanış ve teknik performans açısından detaylı değerlendirme.", image:null},
+  {title:"E-spor turnuvasında sürpriz sonuç", category:"E-spor", source:"ESporTR", url:"#", summary:"Alt sıradaki takım finale kalarak favorileri elemeyi başardı.", image:null},
+  {title:"Donanım fiyatlarında yeni sezon indirimleri başladı", category:"Fırsat", source:"TeknoOyun", url:"#", summary:"Ekran kartı ve konsol fiyatlarında dikkat çekici düşüşler gözlemleniyor.", image:null}
 ];
 
 async function loadArticles(){
@@ -213,17 +225,20 @@ function renderHero(articles){
   const heroGrid = document.getElementById('heroGrid');
   heroGrid.innerHTML = `
     <a class="hero-main" href="${feat.url}">
+      ${feat.image ? `<img class="bg" src="${feat.image}" alt="">` : ''}
       <span class="tag">${feat.category}</span>
       <h1>${feat.title}</h1>
       <p>${feat.summary}</p>
     </a>
     <div class="hero-side">
       <a class="side-card" href="${a ? a.url : '#'}">
+        ${a && a.image ? `<img class="bg" src="${a.image}" alt="">` : ''}
         <span class="tag">${a ? a.category : ''}</span>
         <h3>${a ? a.title : ''}</h3>
         <p>${a ? a.summary : ''}</p>
       </a>
       <a class="side-card" href="${b ? b.url : '#'}">
+        ${b && b.image ? `<img class="bg" src="${b.image}" alt="">` : ''}
         <span class="tag">${b ? b.category : ''}</span>
         <h3>${b ? b.title : ''}</h3>
         <p>${b ? b.summary : ''}</p>
@@ -236,7 +251,7 @@ function renderGrid(articles){
   document.getElementById('articleCount').textContent = articles.length + ' haber';
   grid.innerHTML = articles.map(a => `
     <a class="card" href="${a.url}">
-      <div class="card-media" data-cat="${a.category}"></div>
+      <div class="card-media" data-cat="${a.category}">${a.image ? `<img src="${a.image}" alt="" loading="lazy">` : ''}</div>
       <div class="card-body">
         <h3>${a.title}</h3>
         <p>${a.summary}</p>

@@ -1,10 +1,52 @@
 {
   "articles": [
-    {"title":"Yeni nesil açık dünya oyunu tanıtıldı","category":"PC","source":"OyunHaber","url":"#","summary":"Geliştirici stüdyo, uzun süredir beklenen projesinin ilk fragmanını yayınladı."},
-    {"title":"Popüler battle royale oyununa dev güncelleme geldi","category":"Konsol","source":"GameWire","url":"#","summary":"Yeni harita, silahlar ve dengeleme değişiklikleri oyuncularla buluştu."},
-    {"title":"Mobil oyun pazarında yükselen trend: kısa oturum tasarımı","category":"Mobil","source":"MobilOyun","url":"#","summary":"Geliştiriciler artık daha kısa ve tekrar oynanabilir seviyelere yöneliyor."},
-    {"title":"İnceleme: Yılın en çok konuşulan yapımı beklentileri karşılıyor mu?","category":"İnceleme","source":"Nişangah","url":"#","summary":"Hikaye, oynanış ve teknik performans açısından detaylı değerlendirme."},
-    {"title":"E-spor turnuvasında sürpriz sonuç","category":"E-spor","source":"ESporTR","url":"#","summary":"Alt sıradaki takım finale kalarak favorileri elemeyi başardı."},
-    {"title":"Donanım fiyatlarında yeni sezon indirimleri başladı","category":"Fırsat","source":"TeknoOyun","url":"#","summary":"Ekran kartı ve konsol fiyatlarında dikkat çekici düşüşler gözlemleniyor."}
+    {
+      "title": "Hearthstone: Reign of the Black Empire duyuruldu!",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-haberleri/hearthstone-reign-of-the-black-empire-duyuruldu",
+      "summary": "Hearthstone'un yeni genişlemesi Reign of the Black Empire duyuruldu. Monk sınıfı ise mart 2027'de oyuna eklenecek.",
+      "published": "Sun, 13 Sep 2026 00:21:49 +0000"
+    },
+    {
+      "title": "Xal'atath, Heroes of the Storm'a geliyor! İşte çıkış tarihi",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-haberleri/xalatath-heroes-of-the-storma-geliyor-iste-cikis-tarihi",
+      "summary": "Heroes of the Storm, yeni kahramanını 28 Eylül'de oyuncularla buluşturacak. Xal'atath öncesinde 14 Eylül'de PTR sunucularında test edilebilecek.",
+      "published": "Sun, 13 Sep 2026 00:18:06 +0000"
+    },
+    {
+      "title": "Overwatch'ın yeni Support kahramanı Doctrine duyuruldu",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-haberleri/overwatchin-yeni-support-kahramani-doctrine-duyuruldu",
+      "summary": "Overwatch beşinci sezonunda yeni kahramanın yanı sıra Watchpoint: Grimsvötn haritasına kavuşacak. Sombra ve Roadhog da yeniden düzenlenecek.",
+      "published": "Sun, 13 Sep 2026 00:11:22 +0000"
+    },
+    {
+      "title": "Diablo 4'e Amazon sınıfı geliyor! Çıkış tarihi açıklandı",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-haberleri/diablo-4e-amazon-sinifi-geliyor-cikis-tarihi-aciklandi",
+      "summary": "Diablo 4, klasik Amazon sınıfına 2027'nin ilk yarısında kavuşacak. Yeni sınıfın yanı sıra 30. yıl dönümü sezonu da başlıyor.",
+      "published": "Sun, 13 Sep 2026 00:06:00 +0000"
+    },
+    {
+      "title": "Warcraft 3: Reforged'a sürpriz yeni kampanya geldi!",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-haberleri/warcraft-3-reforgeda-surpriz-yeni-kampanya-geldi",
+      "summary": "Warcraft 3: Reforged - The Forsaken Kingdom, Lordaeron'un düşüşünün ardından Undercity'nin kuruluşuna odaklanıyor ve 3.0 güncellemesiyle erişime açıldı.",
+      "published": "Sat, 12 Sep 2026 23:58:00 +0000"
+    },
+    {
+      "title": "World of Warcraft: Forever duyuruldu! İşte çıkış tarihi",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-haberleri/world-of-warcraft-forever-duyuruldu-iste-cikis-tarihi",
+      "summary": "World of Warcraft: Forever için beta süreci 17 Eylül'de başlayacak. Yeni deneyim, 4 Kasım'da oyuncularla buluşacak ve üç yeni bölge ile 9 zindan içerecek.",
+      "published": "Sat, 12 Sep 2026 23:50:00 +0000"
+    }
   ]
 }

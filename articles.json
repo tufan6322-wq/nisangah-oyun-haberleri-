@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {"title":"Yeni nesil açık dünya oyunu tanıtıldı","category":"PC","source":"OyunHaber","url":"#","summary":"Geliştirici stüdyo, uzun süredir beklenen projesinin ilk fragmanını yayınladı."},
+    {"title":"Popüler battle royale oyununa dev güncelleme geldi","category":"Konsol","source":"GameWire","url":"#","summary":"Yeni harita, silahlar ve dengeleme değişiklikleri oyuncularla buluştu."},
+    {"title":"Mobil oyun pazarında yükselen trend: kısa oturum tasarımı","category":"Mobil","source":"MobilOyun","url":"#","summary":"Geliştiriciler artık daha kısa ve tekrar oynanabilir seviyelere yöneliyor."},
+    {"title":"İnceleme: Yılın en çok konuşulan yapımı beklentileri karşılıyor mu?","category":"İnceleme","source":"Nişangah","url":"#","summary":"Hikaye, oynanış ve teknik performans açısından detaylı değerlendirme."},
+    {"title":"E-spor turnuvasında sürpriz sonuç","category":"E-spor","source":"ESporTR","url":"#","summary":"Alt sıradaki takım finale kalarak favorileri elemeyi başardı."},
+    {"title":"Donanım fiyatlarında yeni sezon indirimleri başladı","category":"Fırsat","source":"TeknoOyun","url":"#","summary":"Ekran kartı ve konsol fiyatlarında dikkat çekici düşüşler gözlemleniyor."}
+  ]
+}

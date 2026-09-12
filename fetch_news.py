@@ -28,8 +28,6 @@ import re
 import feedparser
 from datetime import datetime, timezone
 
-# Türkçe oyun haberi kaynakları. Buradaki listeyi dilediğin kaynaklarla
-# değiştirebilir/genişletebilirsin.
 FEEDS = [
     {"url": "https://www.oyungunlugu.com/rss.xml", "source": "Oyun Günlüğü", "category": "Genel"},
     {"url": "https://shiftdelete.net/oyun/feed", "source": "ShiftDelete.Net", "category": "Genel"},
@@ -53,31 +51,24 @@ def clean_summary(raw_html, limit=160):
 
 
 def extract_image(entry):
-    """RSS girdisinden bir görsel URL'si bulmaya çalışır.
-    Sırasıyla: media:content, media:thumbnail, enclosure, içerik
-    içindeki ilk <img> etiketi kontrol edilir. Bulunamazsa None döner.
-    """
-    # media:content (çoğu haber sitesi bunu kullanır)
+    """RSS girdisinden bir görsel URL'si bulmaya çalışır."""
     media_content = entry.get("media_content")
     if media_content:
         url = media_content[0].get("url")
         if url:
             return url
 
-    # media:thumbnail
     media_thumb = entry.get("media_thumbnail")
     if media_thumb:
         url = media_thumb[0].get("url")
         if url:
             return url
 
-    # enclosure (bazı feed'ler görseli burada verir)
     if entry.get("enclosures"):
         for enc in entry["enclosures"]:
             if enc.get("type", "").startswith("image") or enc.get("href", "").lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
                 return enc.get("href")
 
-    # içerik metninde geçen ilk <img src="...">
     raw_html = ""
     if entry.get("content"):
         raw_html = entry["content"][0].get("value", "")

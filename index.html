@@ -153,6 +153,17 @@
   .card-body .src{color:var(--muted);font-size:12px;display:flex;justify-content:space-between;}
   .card-body p{color:var(--muted);font-size:13px;}
 
+  /* ---- Pagination ---- */
+  .pagination{display:flex;justify-content:center;gap:8px;margin:36px 0;flex-wrap:wrap;}
+  .page-btn{
+    background:var(--surface);border:1px solid var(--border);color:var(--text);
+    font-family:'Oswald',sans-serif;font-weight:600;font-size:14px;
+    padding:8px 16px;cursor:pointer;min-width:40px;
+  }
+  .page-btn:hover{border-color:var(--lime);}
+  .page-btn.active{background:var(--lime);color:#101114;border-color:var(--lime);}
+  .page-btn:disabled{opacity:0.35;cursor:not-allowed;}
+
   footer{border-top:1px solid var(--border);margin-top:60px;padding:32px 0;color:var(--muted);font-size:13px;}
   footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;}
 </style>
@@ -188,6 +199,7 @@
     <span class="count" id="articleCount"></span>
   </section>
   <div class="grid" id="newsGrid"></div>
+  <div class="pagination" id="pagination"></div>
 </main>
 
 <footer>
@@ -246,10 +258,16 @@ function renderHero(articles){
     </div>`;
 }
 
-function renderGrid(articles){
+const PER_PAGE = 9;
+let currentPage = 1;
+let gridArticles = [];
+
+function renderGridPage(){
   const grid = document.getElementById('newsGrid');
-  document.getElementById('articleCount').textContent = articles.length + ' haber';
-  grid.innerHTML = articles.map(a => `
+  const start = (currentPage - 1) * PER_PAGE;
+  const pageItems = gridArticles.slice(start, start + PER_PAGE);
+  document.getElementById('articleCount').textContent = gridArticles.length + ' haber';
+  grid.innerHTML = pageItems.map(a => `
     <a class="card" href="${a.url}">
       <div class="card-media" data-cat="${a.category}">${a.image ? `<img src="${a.image}" alt="" loading="lazy">` : ''}</div>
       <div class="card-body">
@@ -258,6 +276,32 @@ function renderGrid(articles){
         <span class="src"><span>${a.source}</span></span>
       </div>
     </a>`).join('');
+  renderPagination();
+}
+
+function renderPagination(){
+  const el = document.getElementById('pagination');
+  const totalPages = Math.ceil(gridArticles.length / PER_PAGE);
+  if(totalPages <= 1){ el.innerHTML = ''; return; }
+
+  let html = `<button class="page-btn" id="prevBtn" ${currentPage === 1 ? 'disabled' : ''}>‹</button>`;
+  for(let i = 1; i <= totalPages; i++){
+    html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" data-page="${i}">${i}</button>`;
+  }
+  html += `<button class="page-btn" id="nextBtn" ${currentPage === totalPages ? 'disabled' : ''}>›</button>`;
+  el.innerHTML = html;
+
+  el.querySelectorAll('[data-page]').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      currentPage = parseInt(btn.dataset.page, 10);
+      renderGridPage();
+      document.getElementById('newsGrid').scrollIntoView({behavior:'smooth', block:'start'});
+    });
+  });
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  if(prevBtn) prevBtn.addEventListener('click', ()=>{ if(currentPage>1){ currentPage--; renderGridPage(); } });
+  if(nextBtn) nextBtn.addEventListener('click', ()=>{ if(currentPage<totalPages){ currentPage++; renderGridPage(); } });
 }
 
 function renderTicker(articles){
@@ -268,7 +312,8 @@ function renderTicker(articles){
 loadArticles().then(articles=>{
   renderTicker(articles);
   renderHero(articles.slice(0,3));
-  renderGrid(articles.slice(3).length ? articles.slice(3) : articles);
+  gridArticles = articles.slice(3).length ? articles.slice(3) : articles;
+  renderGridPage();
 });
 </script>
 </body>

@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Yaklaşan & Yeni çıkan oyunlar – 2030",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-listeleri/yaklasan-yeni-cikan-oyunlar-2030",
+      "summary": "2030 yılında yaklaşan ve yeni çıkan oyunlara göz atıyoruz. ▪️ StarCraft",
+      "image": "https://www.oyungunlugu.com/uploads/images/news/starcraft-2030-1920-1080.jpg",
+      "published": "Sun, 13 Sep 2026 11:39:33 +0000"
+    },
+    {
+      "title": "Yaklaşan & Yeni çıkan oyunlar – 2029",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-listeleri/yaklasan-yeni-cikan-oyunlar-2029",
+      "summary": "2029 yılında yaklaşan ve yeni çıkan oyunlara göz atıyoruz. ▪️ Diablo 5",
+      "image": "https://www.oyungunlugu.com/uploads/images/news/diablo-5-1920-1080.jpg",
+      "published": "Sun, 13 Sep 2026 11:36:00 +0000"
+    },
+    {
       "title": "Hearthstone: Reign of the Black Empire duyuruldu!",
       "category": "Genel",
       "source": "Oyun Günlüğü",
@@ -37,22 +55,13 @@
       "published": "Sun, 13 Sep 2026 00:06:00 +0000"
     },
     {
-      "title": "Warcraft 3: Reforged'a sürpriz yeni kampanya geldi!",
+      "title": "Yoldaşınız Mobilya Oluyor: IKEA Skyrim için Mod Yayınladı",
       "category": "Genel",
-      "source": "Oyun Günlüğü",
-      "url": "https://www.oyungunlugu.com/oyun-haberleri/warcraft-3-reforgeda-surpriz-yeni-kampanya-geldi",
-      "summary": "Warcraft 3: Reforged - The Forsaken Kingdom, Lordaeron'un düşüşünün ardından Undercity'nin kuruluşuna odaklanıyor ve 3.0 güncellemesiyle erişime açıldı.",
-      "image": "https://www.oyungunlugu.com/uploads/images/news/warcraft-3-reforged-the-forsaken-kingdom-1920-1080.jpg",
-      "published": "Sat, 12 Sep 2026 23:58:00 +0000"
-    },
-    {
-      "title": "World of Warcraft: Forever duyuruldu! İşte çıkış tarihi",
-      "category": "Genel",
-      "source": "Oyun Günlüğü",
-      "url": "https://www.oyungunlugu.com/oyun-haberleri/world-of-warcraft-forever-duyuruldu-iste-cikis-tarihi",
-      "summary": "World of Warcraft: Forever için beta süreci 17 Eylül'de başlayacak. Yeni deneyim, 4 Kasım'da oyuncularla buluşacak ve üç yeni bölge ile 9 zindan içerecek.",
-      "image": "https://www.oyungunlugu.com/uploads/images/news/world-of-warcraft-forever-1920-1080.jpg",
-      "published": "Sat, 12 Sep 2026 23:50:00 +0000"
+      "source": "ShiftDelete.Net",
+      "url": "https://shiftdelete.net/ikea-skyrim-kallax-storageborn-modu",
+      "summary": "IKEA, Skyrim Special Edition için yayınladığı ücretsiz Skyrim IKEA modu ile Kallax raf ünitesini oyun dünyasına taşıyor.",
+      "image": null,
+      "published": "Sun, 13 Sep 2026 09:00:40 +0000"
     },
     {
       "title": "Sony’nin Yeni Taşınabilir Konsolu PSP 3’ün Pil Ömrü Sızdı",
@@ -98,15 +107,6 @@
       "summary": "Sony, 10 Eylül itibarıyla PlayStation Plus Extra ve Premium kütüphanesine eklenecek yeni oyunları duyurdu. İşte abonelerin erişimine açılacak tüm oyunlar.",
       "image": null,
       "published": "Thu, 10 Sep 2026 13:30:56 +0000"
-    },
-    {
-      "title": "Nintendo Switch 2 Dock Modunda VRR Desteğine Kavuştu",
-      "category": "Genel",
-      "source": "ShiftDelete.Net",
-      "url": "https://shiftdelete.net/nintendo-switch-2-dock-modunda-vrr-destegine-kavustu",
-      "summary": "Nintendo, Switch 2 için yayınladığı 23.0.0 güncellemesiyle docked modunda VRR desteğini resmen başlattı. Yeni özellikler ve sistem iyileştirmeleri haberimizde.",
-      "image": null,
-      "published": "Thu, 10 Sep 2026 13:00:56 +0000"
     }
   ]
 }

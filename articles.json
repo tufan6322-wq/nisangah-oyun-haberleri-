@@ -1,49 +1,13 @@
 {
   "articles": [
     {
-      "title": "Ondeh Ondeh Kaya's Tasty Tale duyuruldu",
-      "category": "Genel",
-      "source": "Oyun Günlüğü",
-      "url": "https://www.oyungunlugu.com/oyun-haberleri/ondeh-ondeh-kayas-tasty-tale-duyuruldu",
-      "summary": "Metronomik'in yeni oyunu Ondeh Ondeh Kaya's Tasty Tale, ritim ve bulmacayı Güneydoğu Asya kültürüyle birleştiren renkli bir macera sunuyor.",
-      "image": "https://www.oyungunlugu.com/uploads/images/news/ondeh-ondeh-kayas-tasty-tale-1920-1080.jpg",
-      "published": "Mon, 14 Sep 2026 02:35:50 +0000"
-    },
-    {
-      "title": "Doom Eternal, Amazon Prime'ın Eylül 2026 Oyunları Arasında Yerini Aldı",
+      "title": "İlk Bakış - Phantom Blade Zero",
       "category": "Genel",
       "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/doom-eternal-amazon-primein-eylul-2026-oyunlari-arasinda-yerini-aldi/detay",
-      "summary": "Amazon Luna (Prime Gaming) abonelerine bu ay boyunca verilecek oyunlar açıklandı. Aslında oyunların ilk grubu çoktan kütüphanede yerlerini aldı bile. Ama esas…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3c44203d39_87158.jpg",
-      "published": "2026-09-11 15:05:00"
-    },
-    {
-      "title": "Metroid Ravenous, Metroid Dread'i Geliştiren MercurySteam'in Elinden Gelecek",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/metroid-ravenous-metroid-dreadi-gelistiren-mercurysteamin-elinden-gelecek/detay",
-      "summary": "Metroid Dread&rsquo;in geliştiricisi MercurySteam, gizemli bir emoji mesajıyla yeni Metroid oyununun arkasındaki ekip olduğunu ima etti. Nintendo…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3a74562c2b_87152.jpg",
-      "published": "2026-09-11 15:35:00"
-    },
-    {
-      "title": "Banjo-Kazooie'nin Doğuşunu Sağlayan SNES Prototipi 30 Yıldan Sonra Ortaya Çıktı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/banjo-kazooienin-dogusunu-saglayan-snes-prototipi-30-yildan-sonra-ortaya-cikti/detay",
-      "summary": "Project Dream retro oyun dünyasının kutsal kaselerinden biri. Kendisi sonradan Banjo-Kazooie&rsquo;ye dönüşecek olan Dream: Land of Giants adlı RYO'nun kod…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3d08e728df_87160.jpg",
-      "published": "2026-09-11 16:03:00"
-    },
-    {
-      "title": "Marvel's Wolverine - İnceleme Puanları",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/marvels-wolverine-inceleme-puanlari/detay",
-      "summary": "Yıllarca merakla beklendi, en sonunda oyun severlerle buluşma vakti geldi, ama Marvel's Wolverine o beklentileri çok da karşılayamamış gibi görünüyor. En…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3f0a357012_87162.jpg",
-      "published": "2026-09-11 16:40:00"
+      "url": "https://oyungezer.com.tr/haber/ilk-bakis-phantom-blade-zero/detay",
+      "summary": "Geçen yıl bu sayfalarda Phantom Blade Zero için &ldquo;Siz hiç Kung-Fu filmi çevirmek istemiş miydiniz?&rdquo; diye sormuşum. Aradan geçen zamanda S-GAME…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3e118b2f7d_87161.jpg",
+      "published": "2026-09-13 12:00:00"
     },
     {
       "title": "The Witcher 3 Remastered Roach’u Düzeltiyor Ama İsteyen Eskiye Dönebilecek",
@@ -55,13 +19,49 @@
       "published": "2026-09-11 17:05:00"
     },
     {
-      "title": "İlk Bakış - Phantom Blade Zero",
+      "title": "Marvel's Wolverine - İnceleme Puanları",
       "category": "Genel",
       "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/ilk-bakis-phantom-blade-zero/detay",
-      "summary": "Geçen yıl bu sayfalarda Phantom Blade Zero için &ldquo;Siz hiç Kung-Fu filmi çevirmek istemiş miydiniz?&rdquo; diye sormuşum. Aradan geçen zamanda S-GAME…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3e118b2f7d_87161.jpg",
-      "published": "2026-09-13 12:00:00"
+      "url": "https://oyungezer.com.tr/haber/marvels-wolverine-inceleme-puanlari/detay",
+      "summary": "Yıllarca merakla beklendi, en sonunda oyun severlerle buluşma vakti geldi, ama Marvel's Wolverine o beklentileri çok da karşılayamamış gibi görünüyor. En…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3f0a357012_87162.jpg",
+      "published": "2026-09-11 16:40:00"
+    },
+    {
+      "title": "Banjo-Kazooie'nin Doğuşunu Sağlayan SNES Prototipi 30 Yıldan Sonra Ortaya Çıktı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/banjo-kazooienin-dogusunu-saglayan-snes-prototipi-30-yildan-sonra-ortaya-cikti/detay",
+      "summary": "Project Dream retro oyun dünyasının kutsal kaselerinden biri. Kendisi sonradan Banjo-Kazooie&rsquo;ye dönüşecek olan Dream: Land of Giants adlı RYO'nun kod…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3d08e728df_87160.jpg",
+      "published": "2026-09-11 16:03:00"
+    },
+    {
+      "title": "Metroid Ravenous, Metroid Dread'i Geliştiren MercurySteam'in Elinden Gelecek",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/metroid-ravenous-metroid-dreadi-gelistiren-mercurysteamin-elinden-gelecek/detay",
+      "summary": "Metroid Dread&rsquo;in geliştiricisi MercurySteam, gizemli bir emoji mesajıyla yeni Metroid oyununun arkasındaki ekip olduğunu ima etti. Nintendo…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3a74562c2b_87152.jpg",
+      "published": "2026-09-11 15:35:00"
+    },
+    {
+      "title": "Doom Eternal, Amazon Prime'ın Eylül 2026 Oyunları Arasında Yerini Aldı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/doom-eternal-amazon-primein-eylul-2026-oyunlari-arasinda-yerini-aldi/detay",
+      "summary": "Amazon Luna (Prime Gaming) abonelerine bu ay boyunca verilecek oyunlar açıklandı. Aslında oyunların ilk grubu çoktan kütüphanede yerlerini aldı bile. Ama esas…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3c44203d39_87158.jpg",
+      "published": "2026-09-11 15:05:00"
+    },
+    {
+      "title": "Ondeh Ondeh Kaya's Tasty Tale duyuruldu",
+      "category": "Genel",
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-haberleri/ondeh-ondeh-kayas-tasty-tale-duyuruldu",
+      "summary": "Metronomik'in yeni oyunu Ondeh Ondeh Kaya's Tasty Tale, ritim ve bulmacayı Güneydoğu Asya kültürüyle birleştiren renkli bir macera sunuyor.",
+      "image": "https://www.oyungunlugu.com/uploads/images/news/ondeh-ondeh-kayas-tasty-tale-1920-1080.jpg",
+      "published": "Mon, 14 Sep 2026 02:35:50 +0000"
     },
     {
       "title": "Cyberpunk 2077, Battle.net'e geliyor",

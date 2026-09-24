@@ -1,859 +1,22 @@
 {
   "articles": [
     {
-      "title": "Discord Mahremiyet İhlali Yapmayan Yaş Doğrulama Sistemini Devreye Aldı",
+      "title": "GTA 6'nın 400 dolarlık koleksiyon sürümü satışta",
       "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/discord-mahremiyet-ihlali-yapmayan-yas-dogrulama-sistemini-devreye-aldi/detay",
-      "summary": "Discord, geçtiğimiz aylarda tartışma yaratan yaş doğrulama sistemini ertelemişti. Bu sistemin tartışma yaratmasının sebebi mahremiyeti ihlal eden yöntemler…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4dadfb8f83_87255.jpg",
-      "published": "2026-09-24 15:50:00"
-    },
-    {
-      "title": "Quake Champions, 9 Yıl Sonra Ücretli Oldu!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/quake-champions-9-yil-sonra-ucretli-oldu/detay",
-      "summary": "Tam 9 yıldır hayatımızda olan Quake Champions \"servis oyunu\" hissiyatını üstünden atmaya karar verdi. Yıllardır tamamen ücretsiz olarak oynanabilen oyun,…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4e51dcbddc_87257.jpg",
-      "published": "2026-09-24 13:25:00"
-    },
-    {
-      "title": "Bethesda, Obsidian'ın Yaratıcı Kimliğini Koruyacağını Söylüyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/bethesda-obsidianin-yaratici-kimligini-koruyacagini-soyluyor/detay",
-      "summary": "Xbox'ın devam eden yeniden yapılanması sürecinde Obsidian Entertainment, Bethesda'nın çatısı altına taşındı bildiğiniz üzere. Bu habere çoğumuz olumsuz tepki…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4e9402bfb7_87258.jpg",
-      "published": "2026-09-24 14:00:00"
-    },
-    {
-      "title": "Clive Barker’s Hellraiser: Revival'dan Yeni Bir Oynanış Videosu Paylaşıldı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/clive-barkers-hellraiser-revivaldan-yeni-bir-oynanis-videosu-paylasildi/detay",
-      "summary": "Saber Interactive, 2 hafta sonra oyun severlerle buluşacak Clive Barker&rsquo;s Hellraiser: Revival'dan yaklaşık 4 dakikalık yeni bir oynanış videosu paylaştı:…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4e34a424e9_87256.jpg",
-      "published": "2026-09-24 12:10:00"
-    },
-    {
-      "title": "Gears of War: E-Day'in Hikaye Yönetmeni, Oyunu Tamamladıktan Dört Gün Sonra Kovuldu",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/gears-of-war-e-dayin-hikaye-yonetmeni-oyunu-tamamladiktan-dort-gun-sonra-kovuldu/detay",
-      "summary": "Yakında çıkacak olan Gears of War: E-Day'in hikaye yönetmeni Juan Vaca, Xbox'ın yeni resetlenme hamlesinde işini kaybeden yüzlerce isimden birisi. Vaca bundan…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab374e6b11b7_87242.jpg",
-      "published": "2026-09-23 17:20:00"
-    },
-    {
-      "title": "People Playground Oyuncuları Dikkat: PC'nize Malware Girmiş Olabilir!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/people-playground-oyunculari-dikkat-pcnize-malware-girmis-olabilir/detay",
-      "summary": "Steam Atölyesi bu yıl ikinci kez bir \"malware\" saldırısı ile gündemde. Geçtiğimiz aylarda Wallpaper Engine'in yaşadığına benzer bir durum, oldukça popüler bir…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab37f6c4b142_87245.jpg",
-      "published": "2026-09-23 15:30:00"
-    },
-    {
-      "title": "Dancing with Ghosts, 2 Hafta Sonra Erken Erişime Çıkıyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/dancing-with-ghosts-2-hafta-sonra-erken-erisime-cikiyor/detay",
-      "summary": "Dancing with Ghosts'un erken erişim tarihi bir fragmanla ilan edildi, 2 hafta sonra oyun severlerle buluşmaya hazırlanıyor. {ogzvideo|type:ytb|id:DffSC0hIpvA}…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3a76c4f6bb_87252.jpg",
-      "published": "2026-09-23 16:00:00"
-    },
-    {
-      "title": "Darkwing Duck, Yıldız Seslendirme Kadrosuyla Geri Dönüyor!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/darkwing-duck-yildiz-seslendirme-kadrosuyla-geri-donuyor/detay",
-      "summary": "Variety'nin haberine göre Disney+ Darkwing Duck çizgi dizisinin reboot versiyonunu sipariş etmiş durumda! Aslında bundan altı yıl önce bu proje gündeme…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab376efd7478_87243.jpg",
-      "published": "2026-09-23 13:35:00"
-    },
-    {
-      "title": "CS2'ye Dev Güncelleme!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/cs2ye-dev-guncelleme/detay",
-      "summary": "FPS dünyasında kartlar yeniden dağıtılıyor. Valve, Counter-Strike 2'ye dev bir güncelleme getirdi. Güncelleme beraberinde yeni oyun modu Rush'ı getirecek. Uzun…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3852fcecd1_87247.jpg",
-      "published": "2026-09-23 14:07:00"
-    },
-    {
-      "title": "Xbox Resetlenmeye Devam Ediyor: Obsidian, Bethesda Bünyesine Geçti",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/xbox-resetlenmeye-devam-ediyor-obsidian-bethesda-bunyesine-gecti/detay",
-      "summary": "Dünkü Xbox'ta yeni işten çıkarmalar bekleniyor haberimizden sadece saatler sonra Matt Booty tarafından yapılan açıklama Xbox'ta ikinci resetlenme aşamasına…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3738e4d05a_87241.jpg",
-      "published": "2026-09-23 11:30:00"
-    },
-    {
-      "title": "Hellblade'in Geliştiricisi Ninja Theory İçin Yolun Sonu Göründü",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/hellbladein-gelistiricisi-ninja-theory-icin-yolun-sonu-gorundu/detay",
-      "summary": "Hellblade serisinin geliştiricisi Ninja Theory, Xbox'taki son resetlenme dalgasının ardından kapatılacak stüdyolar listesine girmiş oldu. Xbox CCO'su Matt…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3846090b99_87246.jpg",
-      "published": "2026-09-23 12:00:00"
-    },
-    {
-      "title": "Blizzard, WoW Forever'da Altın Satışına Kapıyı Kapattı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/blizzard-wow-foreverda-altin-satisina-kapiyi-kapatti/detay",
-      "summary": "World of Warcraft'ın ilk günleri, oyun dünyasında yeni bir gelir kapısının açılmasına neden olmuştu. Oyuncular siteler üzerinden altın satışı yapabiliyor ve…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab24ed625fc4_87237.jpg",
-      "published": "2026-09-22 15:42:00"
-    },
-    {
-      "title": "Take-Two, NBA 2K Davasında Kendini Savundu: 'Satın Aldığınız Şeyler Size Ait Değil'",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/take-two-nba-2k-davasinda-kendini-savundu-satin-aldiginiz-seyler-size-ait-degil/detay",
-      "summary": "NBA'i çok sevsem de 2K oyunlarına ilgimi 2K21'den sonra bitirdim. Açık konuşayım, bu oyunlarda sadece kariyer modunu oynadığım için ve yeni nesil oyunlarda her…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab25239e9f5f_87238.jpg",
-      "published": "2026-09-22 13:56:00"
-    },
-    {
-      "title": "Atelier Karia Tanıtımları Rutger ve Lenja Fragmanıyla Devam Ediyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/atelier-karia-tanitimlari-rutger-ve-lenja-fragmaniyla-devam-ediyor/detay",
-      "summary": "Atelier serisinin yeni halkası Atelier Karia: The Night Kingdom &amp; the Guide of Memories, bu sefer de Rutger ve Lenja fragmanıyla karşımızda:&nbsp;…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab11dd6065e6_87230.jpg",
-      "published": "2026-09-22 11:30:00"
-    },
-    {
-      "title": "Cronos: Lazarus'tan Oynanış Videosu",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/cronos-lazarustan-oynanis-videosu/detay",
-      "summary": "Cronos: The New Dawn'un ek paketi Cronos: Lazarus'tan bir oynanış videosu paylaşıldı. {ogzvideo|type:ytb|id:sMEmROx_EMs} Cronos: Lazarus, ana oyunun hikâyesine…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab22b53b1c9e_87232.jpg",
-      "published": "2026-09-22 12:00:00"
-    },
-    {
-      "title": "Silent Hill: Townfall - İnceleme Puanları",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/silent-hill-townfall-inceleme-puanlari/detay",
-      "summary": "Bu yılın Silent Hill oyunu Silent Hill: Townfall, 3 gün sonra oyun severlerle buluşmaya hazırlanıyor. İnceleme ambargosu da bugün itibarıyla kalktı. İlk…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab101bb928e2_87229.jpg",
-      "published": "2026-09-21 15:35:00"
-    },
-    {
-      "title": "Elden Ring Nightreign, Modcuların Desteği İle Yaşıyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/elden-ring-nightreign-modcularin-destegi-ile-yasiyor/detay",
-      "summary": "FromSoftware, resmi olarak açıklamasa da Elden Rig Nightreign'e verdiği desteği sonlandırmış gibi görünüyor. Uzun süredir içerik güncellemesi almayan oyunu ise…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0edfae021d_87227.jpg",
-      "published": "2026-09-21 13:30:00"
-    },
-    {
-      "title": "Disney+ Tüm Abonelik Planlarında Reklam Uygulamasına Geçiyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/disney-tum-abonelik-planlarinda-reklam-uygulamasina-geciyor/detay",
-      "summary": "Disney+, kullanıcı sözleşmesinde ufak bir değişiklik yaptı ve bu değişikliğe göre kullanıcı sözleşmesini onayladığınızda tüm abonelik paketlerinde reklam…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0e3e5291aa_87225.jpg",
-      "published": "2026-09-21 14:00:00"
-    },
-    {
-      "title": "Control Resonant - İnceleme Puanları",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/control-resonant-inceleme-puanlari/detay",
-      "summary": "Control Resonant'ın çıkışına 3 gün kadar bir süre kaldı. Ama inceleme ambargosu erkenden kalktı ve incelemeler peş peşe paylaşılmaya başlandı. Ortalama puanlar…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0d2a9a9e63_87219.jpg",
-      "published": "2026-09-21 11:30:00"
-    },
-    {
-      "title": "Blizzard Çalışanları, WoW: Forever'ın Betasının Gördüğü İlgiden Şaşkın!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/blizzard-calisanlari-wow-foreverin-betasinin-gordugu-ilgiden-saskin/detay",
-      "summary": "İnsanlar iyi bir MMO'ya aç olduğunu bir kez daha gösterdi. Geçtiğimiz günlerde resmen duyurulan World of Warcraft: Forever, beta sürecinde bile dikkat çekici…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0dc1854ad5_87222.jpg",
-      "published": "2026-09-21 12:00:00"
-    },
-    {
-      "title": "Wardogs, Arc Raiders ve Helldivers 2'den Bile Daha İyi Bir Çıkış Yaptı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/wardogs-arc-raiders-ve-helldivers-2den-bile-daha-iyi-bir-cikis-yapti/detay",
-      "summary": "Wardogs, Steam'de yakaladığı çıkış ivmesiyle 2026'nın en büyük PC başarı hikayelerinden birine imza attı. Alinea Analytics analisti Rhys Elliott'un verilerine…",
-      "image": null,
-      "published": "2026-09-18 15:20:00"
-    },
-    {
-      "title": "Resident Evil Filmi Rotten Tomatoes Tarihinin En Yüksek Puanlı Video Oyun Uyarlaması Oldu",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/resident-evil-filmi-rotten-tomatoes-tarihinin-en-yuksek-puanli-video-oyun-uyarlamasi-oldu/detay",
-      "summary": "Zach Cregger'ın bugün vizyona giren Resident Evil filmi geçtiğimiz günlerde eleştirmenlerle buluşmuştu ve şu ana kadar filme gelen puanlar son derece olumlu.…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacfe716b525_87214.jpg",
-      "published": "2026-09-18 15:50:00"
-    },
-    {
-      "title": "Twitch CEO'su GTA 6 Online'ın 2027'de Geleceğini Öne Sürdü!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/twitch-ceosu-gta-6-onlinein-2027de-gelecegini-one-surdu/detay",
-      "summary": "GTA 6 için resmi olarak geri sayıma başladık. Oyun dünyasını köklerinden sarsması beklenen GTA 6'nın, çoklu oyuncu modu da merak konusu.&nbsp; GTA 5 Online,…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacea5b579fe_87209.jpg",
-      "published": "2026-09-18 12:33:00"
-    },
-    {
-      "title": "Backrooms'un Yönetmeni Bu Yıl İkinci Valve Ziyaretini Gerçekleştirdi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/backroomsun-yonetmeni-bu-yil-ikinci-valve-ziyaretini-gerceklestirdi/detay",
-      "summary": "Kane Parsons, YouTube serisi Backrooms ile birlikte büyük bir üne kavuştu. Ardından bu YouTube serisini beyaz perdeye taşıyarak oldukça olumlu geri dönüşler…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacf5fe3887a_87212.jpg",
-      "published": "2026-09-18 13:07:00"
-    },
-    {
-      "title": "WoW: Forever'ın Betası Oyuncuları Eski Günlere Götürdü",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/wow-foreverin-betasi-oyunculari-eski-gunlere-goturdu/detay",
-      "summary": "WoW Classic'in \"modernize\" edilmiş versiyonu WoW: Forever'ın betası resmen başladı. Beta süreci, oyuncuları eski günlere götürecek dev bekleme süreleriyle…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aace802d12bb_87208.jpg",
-      "published": "2026-09-18 13:40:00"
-    },
-    {
-      "title": "Fire Emblem: Fortune's Weave - İnceleme Puanları",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/fire-emblem-fortunes-weave-inceleme-puanlari/detay",
-      "summary": "Serinin hayranlarının merakla beklediği Fire Emblem: Fortune's Weave, dün itibarıyla oyun severlerin beğenisine sunuldu. İncelemeler, beklentileri karşılayan…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aad061dce2ec_87215.jpg",
-      "published": "2026-09-18 14:10:00"
-    },
-    {
-      "title": "GTA 6'nın 34 Şarkılık Soundtrack'i Duyuruldu",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/gta-6nin-34-sarkilik-soundtracki-duyuruldu/detay",
-      "summary": "Grand Theft Auto serisini özel kılan detaylardan biri şarkılarıdır. Haliyle oyunun tutkunları olarak fragmanda yayınlanan şarkıların devamını merak ediyorduk.…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacf4737cf72_87211.jpg",
-      "published": "2026-09-18 11:32:00"
-    },
-    {
-      "title": "Valor Mortis, Kalabalık Takvimde Bütçe Yormamak İçin 40$'dan Satışa Çıkacak",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/valor-mortis-kalabalik-takvimde-butce-yormamak-icin-40dan-satisa-cikacak/detay",
-      "summary": "Ghostrunner'ın geliştiricisi One More Level'in yeni birinci şahıs soulslike oyunu Valor Mortis, 13 Ekim'de PC, PS5 ve Xbox Series için çıkacak. Geliştirici…",
-      "image": null,
-      "published": "2026-09-18 12:00:00"
-    },
-    {
-      "title": "1001 Threads of Mizan'dan 16 Dakikalık Oynanış Videosu",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/1001-threads-of-mizandan-16-dakikalik-oynanis-videosu/detay",
-      "summary": "MBC Game Studio, 1001 Threads of Mizan'ın demosunu Gamescom 2026'da ziyaretçilere sunmuşlardı. Gamescom'a katılamayanlar için de o demonun oynanış videosunu…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabb13a4d16e_87202.jpg",
-      "published": "2026-09-17 15:30:00"
-    },
-    {
-      "title": "The Blood of Dawnwalker'ın Devam Oyununda Zaman Mekaniği Olmayabilir",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/the-blood-of-dawnwalkerin-devam-oyununda-zaman-mekanigi-olmayabilir/detay",
-      "summary": "Rebel Wolves tarafından geliştirilen The Blood of Dawnwalker'ın en çok tartışılan özelliklerinden biri olan zaman mekaniğinin serinin geleceğinde devam edip…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabb61f45dba_87203.jpg",
-      "published": "2026-09-17 16:00:00"
-    },
-    {
-      "title": "Trails in the Sky 2nd Chapter - İnceleme Puanları",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/trails-in-the-sky-2nd-chapter-inceleme-puanlari/detay",
-      "summary": "Trails in the Sky 2nd Chapter, bu yılın en iddialı JRYO'larından dersem herhalde çok itiraz eden olmaz. Geçtiğimiz yıl Trails in the Sky 1st Chapter'ın…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aab97f84f411_87200.jpg",
-      "published": "2026-09-17 13:15:00"
-    },
-    {
-      "title": "Yeni AB Yasasına Epic CEO'su Tim Sweeney'den Tepki Geldi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/yeni-ab-yasasina-epic-ceosu-tim-sweeneyden-tepki-geldi/detay",
-      "summary": "Epic CEO'su Tim Sweeney, Avrupa Birliği'nin \"14 yaş\" yasa tasarısına yoğun eleştiriler getirdi. AB Komisyonu'nun görüşeceği yeni 14 yaş yasa tasarısı; 14 yaşın…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aaba2c1e3a28_87201.jpg",
-      "published": "2026-09-17 13:45:00"
-    },
-    {
-      "title": "Hyper Light Serisinin Yapımcısı Neredeyse Tüm Ekibini İşten Çıkarttı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/hyper-light-serisinin-yapimcisi-neredeyse-tum-ekibini-isten-cikartti/detay",
-      "summary": "Hyper Light serisinin yapımcısı Heart Machine, çok zor bir dönemden geçiyor. Adı açıklanmayan bir yayıncı ile el sıkışarak bir proje üzerinde çalışmaya…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aab856d0e169_87197.jpg",
-      "published": "2026-09-17 11:46:00"
-    },
-    {
-      "title": "Kemuri'den TGS 2026 Öncesinde Yeni Fragman Geldi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/kemuriden-tgs-2026-oncesinde-yeni-fragman-geldi/detay",
-      "summary": "Ikumi Nakamura'nın yeni stüdyosu UNSEEN, ilk oyunları Kemuri ile karşımıza çıkmaya hazırlanıyor malum. Tokyo Game Show 2026'da da yerlerini alacaklar ve…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa7fb92b139_87194.jpg",
-      "published": "2026-09-16 15:25:00"
-    },
-    {
-      "title": "Overwatch'un Kozmetik 'Odağı' Değişiyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/overwatchun-kozmetik-odagi-degisiyor/detay",
-      "summary": "Karakter temelli oyunların en büyük sorunu ortaya favorilerin çıkıyor olması. Bu durum Rainbow Six Siege için de aynı, Overwatch için de. Haliyle…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa6b25cf095_87193.jpg",
-      "published": "2026-09-16 15:55:00"
-    },
-    {
-      "title": "Denuvo, voices38'in Peşine Düştü",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/denuvo-voices38in-pesine-dustu/detay",
-      "summary": "Denuvo, ABD&rsquo;de açtığı davayla anonim cracker &lsquo;voices38&rsquo;ın peşine düştü. Denuvo voices38'i aralarında Hogwarts Legacy, Black Myth: Wukong,…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa6a45cfe1d_87192.jpg",
-      "published": "2026-09-16 13:30:00"
-    },
-    {
-      "title": "Wo Long 2: Wings of Ember, Mart 2027 Oyunları Arasında Yerini Aldı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/wo-long-2-wings-of-ember-mart-2027-oyunlari-arasinda-yerini-aldi/detay",
-      "summary": "XBOX Games Showcase 2026'da paylaşılan fragmanla, Koei Tecmo'nun soulslike oyunlarından Wo Long'un&nbsp;devam oyununun geleceğini öğrenmiştik. Wo Long 2: Wings…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa674a189b3_87190.jpg",
-      "published": "2026-09-16 14:00:00"
-    },
-    {
-      "title": "XBOX Game Pass Eylül 2026 Oyunlarının 2. Grubu Açıklandı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/xbox-game-pass-eylul-2026-oyunlarinin-2-grubu-aciklandi/detay",
-      "summary": "Eylül ayının 2. yarısına adım atarken bu ayın Game Pass oyunlarının 2. grubu da açıklandı.&nbsp; Tahmin edilebileceği gibi listenin öne çıkan oyunu bizi…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa3fc0a2bc7_87186.jpg",
-      "published": "2026-09-16 11:35:00"
-    },
-    {
-      "title": "Injustice 3 İçin Testlere Başlandığı İddia Ediliyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/injustice-3-icin-testlere-baslandigi-iddia-ediliyor/detay",
-      "summary": "NetherRealm henüz sıradaki projesini açıklamadı ama bunun uzun süredir beklediğimiz yeni Injustice oyunu olacağına kesin gözüyle bakılıyor. 2017 tarihli…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa462677618_87187.jpg",
-      "published": "2026-09-16 12:10:00"
-    },
-    {
-      "title": "The Last Of Us 2'nin Multiplayer Moduna Sony'den Ret!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/the-last-of-us-2nin-multiplayer-moduna-sonyden-ret/detay",
-      "summary": "Mod dünyası için üzücü bir haber daha.&nbsp;The Last of Us Part 2'nin PC versiyonu için geliştirilen PvP modu, Sony'nin isteği ile rafa kaldırıldı. Modu…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa9033b647c1_87182.jpg",
-      "published": "2026-09-15 13:40:00"
-    },
-    {
-      "title": "Apple Nihayet Apple TV’yi Ülkemizde Kullanıma Sunuyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/apple-nihayet-apple-tvyi-ulkemizde-kullanima-sunuyor/detay",
-      "summary": "Apple, servis ekosisteminde yapılandırmaya giderek aralarında Türkiye'nin de bulunduğu çeşitli pazarlarda iCloud+ paketinin kapsamını genişletti. Yapılan bu…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8eff726389_87179.jpg",
-      "published": "2026-09-15 11:30:00"
-    },
-    {
-      "title": "Widow's Bay, Primetime Emmy Ödüllerini Silip Süpürdü",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/widows-bay-primetime-emmy-odullerini-silip-supurdu/detay",
-      "summary": "78. Primetime Emmy Ödülleri dün gece düzenlenen törenle sahiplerini buldu. Apple TV'de yayınlanan komedi-korku dizisi Widow's Bay tam 14 ödülle gecenin yıldızı…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8e7c262ffc_87177.jpg",
-      "published": "2026-09-15 12:00:00"
-    },
-    {
-      "title": "Persona 4 Revival Tanıtım Fragmanları Teddie ile Devam Ediyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/persona-4-revival-tanitim-fragmanlari-teddie-ile-devam-ediyor/detay",
-      "summary": "Atlus, Persona 4 Revival tanıtımlarına kaldığı yerden devam ediyor. Bu seferki isim Teddie. {ogzvideo|type:ytb|id:y2djwToDGpI} Teddie, \"TV dünyasında yaşayan…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7c6dd78126_87176.jpg",
-      "published": "2026-09-14 16:00:00"
-    },
-    {
-      "title": "World of Warcraft: Forever, Klasik Seven Oyuncuların Yeni Evi Olacak",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/world-of-warcraft-forever-klasik-seven-oyuncularin-yeni-evi-olacak/detay",
-      "summary": "Blizzard, uzun süredir söylentileri dolaşan &ldquo;Classic+&rdquo; deneyimi World of Warcraft: Forever'ı resmen duyurdu. World of Warcraft: Forever, 4 Kasım'da…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7b76cc0ce5_87173.jpg",
-      "published": "2026-09-14 13:32:00"
-    },
-    {
-      "title": "Overwatch'un Yeni Karakteri Robotik Bir Vampir!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/overwatchun-yeni-karakteri-robotik-bir-vampir/detay",
-      "summary": "BlizzCon açılış programı bomba gibi sürprizlere ev sahipliği yaptı. Bu sürprizlerden biri de Overwatch'un yeni karakteri Doctrine oldu. Oldukça havalı bir…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7b3957613c_87171.jpg",
-      "published": "2026-09-14 14:00:00"
-    },
-    {
-      "title": "Evolve Geri Döndü!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/evolve-geri-dondu/detay",
-      "summary": "Evolve, \"iyi bir fikri nasıl batırabiliriz\" konulu bir derste örnek olarak gösterilebilecek bir oyun. İlk gösterildiği dönemlerde büyük ilgi çekmesine ve…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a7c3980b3_87166.jpg",
-      "published": "2026-09-14 11:30:00"
-    },
-    {
-      "title": "Kingdom Come Deliverance'ın Yaratıcısı DLSS 5 Övmeye Devam Ediyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/kingdom-come-deliverancein-yaraticisi-dlss-5-ovmeye-devam-ediyor/detay",
-      "summary": "Kingdom Come Deliverance serisinin yaratıcısı, Warhorse'un patronu Daniel Vavra bundan yaklaşık iki hafta önce DLSS 5 konusundaki görüşlerini paylaşmış ve bu…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a13f80065_87165.jpg",
-      "published": "2026-09-14 12:00:00"
-    },
-    {
-      "title": "İlk Bakış - Phantom Blade Zero",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/ilk-bakis-phantom-blade-zero/detay",
-      "summary": "Geçen yıl bu sayfalarda Phantom Blade Zero için &ldquo;Siz hiç Kung-Fu filmi çevirmek istemiş miydiniz?&rdquo; diye sormuşum. Aradan geçen zamanda S-GAME…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3e118b2f7d_87161.jpg",
-      "published": "2026-09-13 12:00:00"
-    },
-    {
-      "title": "The Witcher 3 Remastered Roach’u Düzeltiyor Ama İsteyen Eskiye Dönebilecek",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/the-witcher-3-remastered-roachu-duzeltiyor-ama-isteyen-eskiye-donebilecek/detay",
-      "summary": "CD Projekt Red, Roach&rsquo;un meşhur saçmalıklarını nihayet The Witcher 3 Remastered ile birlikte düzeltiyor ama \"eski Roach\"tan vazgeçemeyen oyuncular için…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3b56ea7247_87156.jpg",
-      "published": "2026-09-11 17:05:00"
-    },
-    {
-      "title": "Marvel's Wolverine - İnceleme Puanları",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/marvels-wolverine-inceleme-puanlari/detay",
-      "summary": "Yıllarca merakla beklendi, en sonunda oyun severlerle buluşma vakti geldi, ama Marvel's Wolverine o beklentileri çok da karşılayamamış gibi görünüyor. En…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3f0a357012_87162.jpg",
-      "published": "2026-09-11 16:40:00"
-    },
-    {
-      "title": "Banjo-Kazooie'nin Doğuşunu Sağlayan SNES Prototipi 30 Yıldan Sonra Ortaya Çıktı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/banjo-kazooienin-dogusunu-saglayan-snes-prototipi-30-yildan-sonra-ortaya-cikti/detay",
-      "summary": "Project Dream retro oyun dünyasının kutsal kaselerinden biri. Kendisi sonradan Banjo-Kazooie&rsquo;ye dönüşecek olan Dream: Land of Giants adlı RYO'nun kod…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3d08e728df_87160.jpg",
-      "published": "2026-09-11 16:03:00"
-    },
-    {
-      "title": "Metroid Ravenous, Metroid Dread'i Geliştiren MercurySteam'in Elinden Gelecek",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/metroid-ravenous-metroid-dreadi-gelistiren-mercurysteamin-elinden-gelecek/detay",
-      "summary": "Metroid Dread&rsquo;in geliştiricisi MercurySteam, gizemli bir emoji mesajıyla yeni Metroid oyununun arkasındaki ekip olduğunu ima etti. Nintendo…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3a74562c2b_87152.jpg",
-      "published": "2026-09-11 15:35:00"
-    },
-    {
-      "title": "Doom Eternal, Amazon Prime'ın Eylül 2026 Oyunları Arasında Yerini Aldı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/doom-eternal-amazon-primein-eylul-2026-oyunlari-arasinda-yerini-aldi/detay",
-      "summary": "Amazon Luna (Prime Gaming) abonelerine bu ay boyunca verilecek oyunlar açıklandı. Aslında oyunların ilk grubu çoktan kütüphanede yerlerini aldı bile. Ama esas…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3c44203d39_87158.jpg",
-      "published": "2026-09-11 15:05:00"
-    },
-    {
-      "title": "Diablo 4 İçin Başka Bir Genişleme Paketi Çıkmayacak",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/diablo-4-icin-baska-bir-genisleme-paketi-cikmayacak/detay",
-      "summary": "Hafta sonu BlizzCon'da karşılaştığımız sürpriz Diablo 5 duyurusunun ardından Diablo 4'ün geleceğine dair de pek çok soru işareti ortaya çıktı ve bundan sonra…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7b3d800bb3_87172.jpg",
-      "published": "2026-09-14 13:00:00"
-    },
-    {
-      "title": "Yerli Oyun Nuktedan, Alzheimer Farkındalığı Yaratmayı Hedefliyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/yerli-oyun-nuktedan-alzheimer-farkindaligi-yaratmayi-hedefliyor/detay",
-      "summary": "Yerli oyunlara incelemelerimizde ve haberlerde olabildiğince yer vermeye çalışıyoruz. Hepsinden bahsetmek gibi bir şansımız olamıyor ne yazık ki. Ama arada…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a8b0d6c82_87167.jpg",
-      "published": "2026-09-14 12:30:00"
-    },
-    {
-      "title": "Blizzard, Yeni Diablo ve StarCraft Oyunlarını Erken Duyurmasının Sebebini Açıkladı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/blizzard-yeni-diablo-ve-starcraft-oyunlarini-erken-duyurmasinin-sebebini-acikladi/detay",
-      "summary": "Cumartesi akşamı Blizzcon 2026 açılış programı gerçekleştirildi. Programda gerçekten ses getirebilecek duyurulara da yer verildi. Bunların başında da yeni…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7be042eebc_87175.jpg",
-      "published": "2026-09-14 15:00:00"
-    },
-    {
-      "title": "Black File ile İstanbul'da Bir Dedektiflik Macerası Bizi Bekliyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/black-file-ile-istanbulda-bir-dedektiflik-macerasi-bizi-bekliyor/detay",
-      "summary": "Yerli oyunlar arasına katılmaya hazırlanan Black File, bizi İstanbul'da bir maceraya davet ediyor. {ogzvideo|type:ytb|id:lsb8jg1Mt7M} Black File,…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a98cee097_87169.jpg",
-      "published": "2026-09-14 14:30:00"
-    },
-    {
-      "title": "Level 5 Patronu, Level 5 Sunumundaki Yoğun Yapay Zeka Kullanımını İçin Özür Diledi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/level-5-patronu-level-5-sunumundaki-yogun-yapay-zeka-kullanimini-icin-ozur-diledi/detay",
-      "summary": "Level 5'in geçen hafta düzenlediği Level 5 Digital Showcase sunumu, sunumun ardından oyuncuların cidden büyük tepkisiyle karşılaştı. Sunumda Level 5'ın sevilen…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a934a0612_87168.jpg",
-      "published": "2026-09-14 17:00:00"
-    },
-    {
-      "title": "Roblox Geliştiriciler Konferansı'nda Bir YouTuber Sahneye Atladı!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/roblox-gelistiriciler-konferansinda-bir-youtuber-sahneye-atladi/detay",
-      "summary": "Roblox, kendi topluluğundan da tepki çekmeye başladı. Uzun süredir üstünde kara bulutlar dolanan platform, bir skandalla daha gündemde. Her sene düzenlenen…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7b9e6ed7fc_87174.jpg",
-      "published": "2026-09-14 16:30:00"
-    },
-    {
-      "title": "Rayman Legends Retold, Aralık Ayına Ertelendi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/rayman-legends-retold-aralik-ayina-ertelendi/detay",
-      "summary": "Ubisoft, çıkışına 2 hafta kalan Rayman Legends Retold'un 2 ay ertelendiğini açıkladı. Gold olan oyunun biraz daha süreye ihtiyaç duyduğunu söylüyorlar. Rayman…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8e8367bbb8_87178.jpg",
-      "published": "2026-09-15 13:00:00"
-    },
-    {
-      "title": "Diablo 5'te Paylaşımlı Açık Dünya Olacak Mı?",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/diablo-5-coklu-oyuncu-destegi-sunacak/detay",
-      "summary": "Geçtiğimiz hafta sonu düzenlenen BlizzCon, pek çok sürprize sahne oldu. Bu sürprizlerden biri de, 2029 yılında geleceği açıklanan Diablo 5. Şahsen kafamı…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7aff050333_87170.jpg",
-      "published": "2026-09-15 12:30:00"
-    },
-    {
-      "title": "The Triple-i Initiative, 8 Ekim'de Geri Dönüyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/the-triple-i-initiative-8-ekimde-geri-donuyor/detay",
-      "summary": "Bağımsız oyunlara özel bir etkinlik olan The Triple-i Initiative, önümüzdeki ay geri dönmeye hazırlanıyor. Bu yılki programın gerçekleştirileceği tarih bir…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa91047da245_87183.jpg",
-      "published": "2026-09-15 14:50:00"
-    },
-    {
-      "title": "Bungie, Marathon Planlarını Değiştiriyor!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/bungie-marathon-planlarini-degistiriyor/detay",
-      "summary": "Bungie'nin yeni oyunu Marathon sancılı bir geliştirme sürecinin ardından piyasaya sürüldüğünde umutlar oldukça yüksekti. Fakat gelinen noktada oyun, kemik…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8f4e4e3827_87180.jpg",
-      "published": "2026-09-15 14:13:00"
-    },
-    {
-      "title": "Redfall'un Yönetmeni: 'Asla Servis Oyunu Yapmamalıydık!'",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/redfallun-yonetmeni-asla-servis-oyunu-yapmamaliydik/detay",
-      "summary": "Redfall, Arkane için büyük bir trajedi olmuştu. Çıkış yaptığı an itibariyle tonlarca sorun yaşayan, çok kısa süre hayatta kalabilen oyun tarihin \"başarısız…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8f808356b8_87181.jpg",
-      "published": "2026-09-15 16:50:00"
-    },
-    {
-      "title": "007 First Light'ın Switch 2 Versiyonu Mart 2027'ye Ertelendi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/007-first-lightin-switch-2-versiyonu-mart-2027ye-ertelendi/detay",
-      "summary": "IO Interactive, 007 First Light'ın Switch 2 versiyonunu erteleme kararı almış. Aslında zaten beklenen bir gelişmeydi bu. Sonuçta yaz aylarında çıkacağı…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa91aacc1fa7_87184.jpg",
-      "published": "2026-09-15 16:13:00"
-    },
-    {
-      "title": "Total War: Shogun 2 - Complete Edition Duyuruldu!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/total-war-shogun-2-complete-edition-duyuruldu/detay",
-      "summary": "Total War hayranlarının yüzü gülmeye devam ediyor. Warhammer 40K'nın Gamescom'daki başarısının ardından Creative Assembly bir de remake duyurdu! Serinin en…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa6166defa4_87189.jpg",
-      "published": "2026-09-16 12:58:00"
-    },
-    {
-      "title": "LEGO Türkiye, Çocukları Kendi Kahraman Hikayelerini Yazmaya Davet Ediyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/lego-turkiye-cocuklari-kendi-kahraman-hikayelerini-yazmaya-davet-ediyor/detay",
-      "summary": "Çocukların hayal gücünü yaratıcı oyunla buluşturan LEGO&reg; Türkiye; LEGO&reg; City ve LEGO&reg; NINJAGO&reg; dünyalarından ilham alan LEGO x Toyzz Shop…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa825fa574e_87195.jpg",
-      "published": "2026-09-16 15:10:00"
-    },
-    {
-      "title": "Focus Entertainment, Gelen Tehditlerin Ardından Suç Duyurusunda Bulundu",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/focus-entertainment-gelen-tehditlerin-ardindan-suc-duyurusunda-bulundu/detay",
-      "summary": "İnternet artık hiçbirimiz için güvenli bir yer değil. Nefretin yüzde 200 seviyesine çıktığı 2026 yılında bir hakaret işitmeniz için çok fazla şey yapmanıza…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa69032db62_87191.jpg",
-      "published": "2026-09-16 14:37:00"
-    },
-    {
-      "title": "Wardogs CEO'su: 'Mesai kötü ama zorunlu!\"",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/wardogs-ceosu-mesai-sevmeyen-studyoya-gelmesin/detay",
-      "summary": "Şu sıralar Steam'i Wardogs domine ediyor. Oyun bu kadar gündemdeyken geliştirici Bulkhead'in CEO'su Joe Brammer da bazı programlara konuk olarak açıklamalar…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa55ffbef89_87188.jpg",
-      "published": "2026-09-16 16:30:00"
-    },
-    {
-      "title": "Build a Rocket Boy Resmen Kepenk İndiriyor!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/build-a-rocket-boy-resmen-kepenk-indiriyor/detay",
-      "summary": "MindsEye'ın geliştiricisi Build a Rocket Boy (BARB), oyun piyasaya sürüldüğünden beri diken üstünde. MindsEye'ın başarısızlığının yanı sıra stüdyonun…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aab9776b713c_87199.jpg",
-      "published": "2026-09-17 12:45:00"
-    },
-    {
-      "title": "Corsair, İlk Premium USB Oyun Mikrofonunu Tanıttı: Voxara",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/corsair-ilk-premium-usb-oyun-mikrofonunu-tanitti-voxara/detay",
-      "summary": "CORSAIR donanımının gücü ve Elgato yazılımının avantajlarıyla geliştirilen VOXARA, oyuncular ve yayıncılar için tasarlanmış üst düzey bir USB oyuncu mikrofonu.…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aab8c13c7b06_87198.jpg",
-      "published": "2026-09-17 12:20:00"
-    },
-    {
-      "title": "Dragon Quest Serisinin Toplam Satışları 100 Milyonu Aştı!",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/dragon-quest-serisinin-toplam-satislari-100-milyonu-asti/detay",
-      "summary": "En önemli JRYO serilerinden birisi olan Dragon Quest serisi 40 yıllık bir maziye sahip. Geride kalan 40 yıllık sürede birçok oyun, yan oyun, yeniden yapımla…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabbc3c77b93_87205.jpg",
-      "published": "2026-09-17 14:55:00"
-    },
-    {
-      "title": "Film İnceleme - Resident Evil",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/film-inceleme-resident-evil/detay",
-      "summary": "Resident Evil&rsquo;ın sinema macerası başlı başına garip bir vaka. Paul W.S. Anderson filmleri yıllar içerisinde oyunlardan iyice kopup Milla…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabc0c9a54de_87204.jpg",
-      "published": "2026-09-17 14:13:00"
-    },
-    {
-      "title": "Kojima'nın Yeni Oyunu Physint'in Başrolünde Bill Skarsgard Olacak",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/kojimanin-yeni-oyunu-physintin-basrolunde-bill-skarsgard-olacak/detay",
-      "summary": "Hideo Kojima, Sony'den Xbox'a geçen oyunu Physint'in başrolünde İsveçli aktör Bill Skarsgård'ın olacağını açıkladı. Kojima'nın paylaştığı yeni posterde Bill…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabc978305ee_87206.jpg",
-      "published": "2026-09-17 16:35:00"
-    },
-    {
-      "title": "Epic Store'un Sıradaki Ücretsiz Oyunları - Astrea: Six Sided Oracles ve Mechabellum",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/epic-storeun-siradaki-ucretsiz-oyunlari-astrea-six-sided-oracles-ve-mechabellum/detay",
-      "summary": "Epic Games Store'un haftalık ücretsiz oyunlar kampanyasında bu hafta Mindcop ve Shogun Showdown verilirken önümüzdeki hafta da 2 oyunla devam edilecek.…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacf62090d3b_87213.jpg",
-      "published": "2026-09-18 14:44:00"
-    },
-    {
-      "title": "Edge of Eternity'nin Devam Oyunu Edge of Memories, Kasım Ayında Geliyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/edge-of-eternitynin-devam-oyunu-edge-of-memories-kasim-ayinda-geliyor/detay",
-      "summary": "Nacon ve Midgar Studio, geçtiğimiz yıl Edge of Eternity'nin devam oyunu Edge of Memories'i duyurmuşlardı. O zamanlarda oyunun 2025 sonlarında geleceği…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aad13390ad4b_87216.jpg",
-      "published": "2026-09-18 16:30:00"
-    },
-    {
-      "title": "Meksika'daki Oyuncak Bebek Adası'ndan Esinlenen Oyun, Gerçekle Kurguyu Birbirine Karıştıracak",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/meksikadaki-oyuncak-bebek-adasindan-esinlenen-oyun-gercekle-kurguyu-birbirine-karistiracak/detay",
-      "summary": "Meksika'da dünyanın en korkunç adalarından biri olarak kabul edilen bir yer var. Orijinal ismi La Isla de las Munecas, bizdeki ismiyle Oyuncak Bebek Adası.…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0d4ff5dbd9_87220.jpg",
-      "published": "2026-09-21 13:00:00"
-    },
-    {
-      "title": "Cairn'in Ertelenen DLC'sinin Çıkış Tarihi Belli Oldu",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/cairnin-ertelenen-dlcsinin-cikis-tarihi-belli-oldu/detay",
-      "summary": "Cairn, oldukça hoş bir konsepti yaratıcı mekanikler ile birleştirerek sevilmeyi başarmıştı. Oyunun merakla beklenen On The Trail: Deep Water ek paketi ise daha…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0de9738129_87223.jpg",
-      "published": "2026-09-21 12:30:00"
-    },
-    {
-      "title": "Metis Creative Tarafından Geliştirilen WANE, Tokyo Game Show'da Gün Yüzüne Çıktı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/metis-creative-tarafindan-gelistirilen-wane-tokyo-game-showda-gun-yuzune-cikti/detay",
-      "summary": "PC Gaming Show Tokyo Direct'te duyurulan oyunlardan birisi de Metis Creative tarafından geliştirilen WANE oldu.&nbsp; {ogzvideo|type:ytb|id:Bx0v--MMzDw}…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0e28f8dc9e_87224.jpg",
-      "published": "2026-09-21 15:03:00"
-    },
-    {
-      "title": "Activision, Hile Dünyasının Büyüklüğünü Gözler Önüne Seren İstatistikler Paylaştı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/activision-hile-dunyasinin-buyuklugunu-gozler-onune-seren-istatistikler-paylasti/detay",
-      "summary": "Çoklu oyuncu modunun olduğu her oyunda mutlaka hile kullanan biri karşınıza çıkabiliyor. Buna son dönemlerin popüler oyunu Wardogs da, klasik FPS oyunları Apex…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0ebae42e59_87226.jpg",
-      "published": "2026-09-21 14:33:00"
-    },
-    {
-      "title": "Hideo Kojima, Physint'e Dair Eleştirilere Cevap Verdi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/hideo-kojima-physinte-dair-elestirilere-cevap-verdi/detay",
-      "summary": "Geçtiğimiz hafta, Sony'nin Kojima'nın PlayStation'a özel olarak geliştirdiği aksiyon casusluk oyunu Physint'ten çekildiğini öğrenmiştik ve oyunu Xbox havada…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0db2ab9ed2_87221.jpg",
-      "published": "2026-09-21 16:42:00"
-    },
-    {
-      "title": "Baldur's Gate 3'e Devasa Bir Yeni Bölge Ekleyen Mod Yayınlandı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/baldurs-gate-3e-devasa-bir-yeni-bolge-ekleyen-mod-yayinlandi/detay",
-      "summary": "Baldur's Gate 3 için halihazırda bir çok mod bulunuyor ama geçen gün yayınlanan bir mod şimdiye kadar gördüklerimizin çok ötesinde bir içeriğe sahip. \"Act Two…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab1000abcb66_87228.jpg",
-      "published": "2026-09-21 16:10:00"
-    },
-    {
-      "title": "Sonbaharda Çıkacağı Söylenen Blighted, Önümüzdeki Yıla Ertelendi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/sonbaharda-cikacagi-soylenen-blighted-onumuzdeki-yila-ertelendi/detay",
-      "summary": "Drinkbox Studios, daha önce Sonbahar aylarında çıkaracaklarını açıkladıkları Blighted'ı 2027'ye erteleme kararı aldıklarını duyurdu. Oyunun Steam…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab27baaa4f2f_87231.jpg",
-      "published": "2026-09-22 13:10:00"
-    },
-    {
-      "title": "Bungie Son Yıllardaki Gelişmelerden Dolayı Hayran Kitlesinden Özür Diledi",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/bungie-son-yillardaki-gelismelerden-dolayi-hayran-kitlesinden-ozur-diledi/detay",
-      "summary": "Bungie bildiğiniz üzere son birkaç yıldır zor günler geçiriyor ve stüdyonun aldığı çeşitli kararlar oyuncu kitlesi arasında büyük tartışmalara yol açtı. Ancak…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab23b5c04ab3_87234.jpg",
-      "published": "2026-09-22 12:33:00"
-    },
-    {
-      "title": "The Blood of Dawnwalker'ın İlk Büyük Güncellemesi Ekim Başında Gelecek",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/the-blood-of-dawnwalkerin-ilk-buyuk-guncellemesi-ekim-basinda-gelecek/detay",
-      "summary": "The Blood of Dawnwalker oyun yönetmeni Konrad Tomaszkiewicz, ekim ayının başında yayınlanması planlanan büyük güncelleme ve sonrasında oyuna gelecek çeşitli…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab24101a7bd3_87235.jpg",
-      "published": "2026-09-22 15:12:00"
-    },
-    {
-      "title": "Rockstar'dan Modculara Uyarı: 'Lütfen Oyunumuza Saygı Duyun!'",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/rockstardan-modculara-uyari-lutfen-oyunumuza-saygi-duyun/detay",
-      "summary": "Rockstar, geçtiğimiz günlerde mod geliştiricilerine özel planladığı kural setini duyurdu. Kurallar içindeki dikkat çekici ifadeler ise gündem oldu. Bu mod…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab24a4a2b454_87236.jpg",
-      "published": "2026-09-22 14:30:00"
-    },
-    {
-      "title": "Xbox'ta Bu Hafta Yeni Bir İşten Çıkarma Dalgası Bekleniyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/xboxta-bu-hafta-yeni-bir-isten-cikarma-dalgasi-bekleniyor/detay",
-      "summary": "The Information'ın haberine göre Xbox bu hafta içinde yüzlerce kişiyi daha işten çıkarmaya hazırlanıyor. Makalede Xbox'ın hangi stüdyolarının bundan…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab26269220ca_87240.jpg",
-      "published": "2026-09-22 16:30:00"
-    },
-    {
-      "title": "Starcraft, Tek Bir Platforma Özel Olmayacak",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/starcraft-tek-bir-platforma-ozel-olmayacak/detay",
-      "summary": "BlizzCon'da duyurular üst üste geldi. Ekranda yeni StarCraft'ı görüp heyecanı yaşamışken, 2030 tarihini gördüğümüzde dumura uğradık. Fakat en nihayetinde, yeni…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab25eb3c3c6c_87239.jpg",
-      "published": "2026-09-22 16:50:00"
-    },
-    {
-      "title": "State Of Decay'in Yapımcısı İşten Çıkartmalara Başladı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/state-of-decayin-yapimcisi-isten-cikartmalara-basladi/detay",
-      "summary": "Xbox'ta yaprak dökümü devam ediyor. Obsidian'ın Bethesda'ya geçişinin ardından Undead Labs de tamamen serbest bırakıldı. State of Decay'in yaratıcısı olan…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab37bc795ed8_87244.jpg",
-      "published": "2026-09-23 13:05:00"
-    },
-    {
-      "title": "Sıradaki Halo Oyununu Activision Geliştirecek",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/siradaki-halo-oyununu-activision-gelistirecek/detay",
-      "summary": "Microsoft, Halo serisinin geliştirme sürecinde büyük bir değişikliğe gidiyor. Serinin son yıllardaki geliştiricisi Halo Studios (eski adıyla 343 Industries)…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3876095d67_87248.jpg",
-      "published": "2026-09-23 12:30:00"
-    },
-    {
-      "title": "Rayman Legends Retold'dan \"Genel Bakış\" Fragmanı",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/rayman-legends-retolddan-genel-bakis-fragmani/detay",
-      "summary": "Ubisoft, daha önce 1 Ekim'de çıkacağını açıklayıp sonra yıl sonuna erteledikleri Rayman Legends Retold'dan yeni bir fragman paylaştı.…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab399ca77144_87249.jpg",
-      "published": "2026-09-23 15:00:00"
-    },
-    {
-      "title": "Kitap İnceleme - Hyperion",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/kitap-inceleme-hyperion/detay",
-      "summary": "Hyperion; Dune tahtının en büyük eşlikçisi, en büyük ortakçısı. Hyperion; Temelini çağımızın korkularından, inançlarından ve kültüründen alan insanlığın…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab39a28c5175_87250.jpg",
-      "published": "2026-09-23 14:40:00"
-    },
-    {
-      "title": "Atatürk Yasağı Sonrasında Paradox'a Tepkiler Çığ Gibi Büyüyor",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/paradoxtan-ataturk-skandali/detay",
-      "summary": "[GÜNCELLEME - 24 Eylül 2026, 14:42]: Paradox'tan ilk resmi açıklama geldi. Duyurunun altında oyunun yönetmeni&nbsp;Laszlo \"Batya\" Pieper'ın imzası bulunuyor.…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4c0c87cc14_87253.jpg",
-      "published": "2026-09-24 14:47:00"
-    },
-    {
-      "title": "Titan Quest 2'nin Tam Sürüme Geçiş Tarihi Belli Oldu",
-      "category": "Genel",
-      "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/titan-quest-2nin-tam-surume-gecis-tarihi-belli-oldu/detay",
-      "summary": "THQ Nordic, geçtiğimiz yıl erken erişime çıkan Titan Quest 2'nin tam sürüme geçiş tarihini açıkladı, önümüzdeki Ocak ayında 1.0 versiyonuna kavuşuyor:…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4d5dcb7957_87254.jpg",
-      "published": "2026-09-24 12:57:00"
+      "source": "Oyun Günlüğü",
+      "url": "https://www.oyungunlugu.com/oyun-haberleri/gta-6nin-400-dolarlik-koleksiyon-surumu-satista",
+      "summary": "Grand Theft Auto 6'nın 400 dolarlık Vice City Collection koleksiyoncu kutusu ön siparişe açıldı, oyun dahil değil, 19 Kasım'da kargoya veriliyor.",
+      "image": "https://www.oyungunlugu.com/uploads/images/news/grand-theft-auto-6-koleksiyoncu-kutusu-1920-1080.jpg",
+      "published": "Fri, 25 Sep 2026 00:53:52 +0000"
     },
     {
-      "title": "Diablo 5'te 'Seviye Ölçeklendirme' Olmayacak",
+      "title": "Wardogs'un Fiyatı İçerik Eklendikçe Yükselecek",
       "category": "Genel",
       "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/diablo-5te-seviye-olceklendirme-olmayacak/detay",
-      "summary": "Blizzard, sürpriz bir biçimde Diablo 5'i duyurdu. Yeni oyunla aramızda hala yıllar olsa da geliştirici ekip gelecek planları hakkında ufak ufak ipuçları…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4ef62b1da4_87259.jpg",
-      "published": "2026-09-24 15:10:00"
+      "url": "https://oyungezer.com.tr/haber/wardogsun-fiyati-icerik-eklendikce-yukselecek/detay",
+      "summary": "Wardogs, erken erişim süreci içinde geliştikçe fiyatı da artmaya başlayacak. Bulkhead CEO'su Joe Brammer bu kararı savunuyor ve oyunun fiyatını hak etmediğini…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4fa14af0c7_87261.jpg",
+      "published": "2026-09-24 16:25:00"
     },
     {
       "title": "Yerli Oyun Pera Coda'nın Dağıtımcılığını PUBLSH Üstlendi",
@@ -865,13 +28,859 @@
       "published": "2026-09-24 14:35:00"
     },
     {
-      "title": "Wardogs'un Fiyatı İçerik Eklendikçe Yükselecek",
+      "title": "Diablo 5'te 'Seviye Ölçeklendirme' Olmayacak",
       "category": "Genel",
       "source": "Oyungezer",
-      "url": "https://oyungezer.com.tr/haber/wardogsun-fiyati-icerik-eklendikce-yukselecek/detay",
-      "summary": "Wardogs, erken erişim süreci içinde geliştikçe fiyatı da artmaya başlayacak. Bulkhead CEO'su Joe Brammer bu kararı savunuyor ve oyunun fiyatını hak etmediğini…",
-      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4fa14af0c7_87261.jpg",
-      "published": "2026-09-24 16:25:00"
+      "url": "https://oyungezer.com.tr/haber/diablo-5te-seviye-olceklendirme-olmayacak/detay",
+      "summary": "Blizzard, sürpriz bir biçimde Diablo 5'i duyurdu. Yeni oyunla aramızda hala yıllar olsa da geliştirici ekip gelecek planları hakkında ufak ufak ipuçları…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4ef62b1da4_87259.jpg",
+      "published": "2026-09-24 15:10:00"
+    },
+    {
+      "title": "Titan Quest 2'nin Tam Sürüme Geçiş Tarihi Belli Oldu",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/titan-quest-2nin-tam-surume-gecis-tarihi-belli-oldu/detay",
+      "summary": "THQ Nordic, geçtiğimiz yıl erken erişime çıkan Titan Quest 2'nin tam sürüme geçiş tarihini açıkladı, önümüzdeki Ocak ayında 1.0 versiyonuna kavuşuyor:…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4d5dcb7957_87254.jpg",
+      "published": "2026-09-24 12:57:00"
+    },
+    {
+      "title": "Atatürk Yasağı Sonrasında Paradox'a Tepkiler Çığ Gibi Büyüyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/paradoxtan-ataturk-skandali/detay",
+      "summary": "[GÜNCELLEME - 24 Eylül 2026, 14:42]: Paradox'tan ilk resmi açıklama geldi. Duyurunun altında oyunun yönetmeni&nbsp;Laszlo \"Batya\" Pieper'ın imzası bulunuyor.…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4c0c87cc14_87253.jpg",
+      "published": "2026-09-24 14:47:00"
+    },
+    {
+      "title": "Kitap İnceleme - Hyperion",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/kitap-inceleme-hyperion/detay",
+      "summary": "Hyperion; Dune tahtının en büyük eşlikçisi, en büyük ortakçısı. Hyperion; Temelini çağımızın korkularından, inançlarından ve kültüründen alan insanlığın…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab39a28c5175_87250.jpg",
+      "published": "2026-09-23 14:40:00"
+    },
+    {
+      "title": "Rayman Legends Retold'dan \"Genel Bakış\" Fragmanı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/rayman-legends-retolddan-genel-bakis-fragmani/detay",
+      "summary": "Ubisoft, daha önce 1 Ekim'de çıkacağını açıklayıp sonra yıl sonuna erteledikleri Rayman Legends Retold'dan yeni bir fragman paylaştı.…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab399ca77144_87249.jpg",
+      "published": "2026-09-23 15:00:00"
+    },
+    {
+      "title": "Sıradaki Halo Oyununu Activision Geliştirecek",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/siradaki-halo-oyununu-activision-gelistirecek/detay",
+      "summary": "Microsoft, Halo serisinin geliştirme sürecinde büyük bir değişikliğe gidiyor. Serinin son yıllardaki geliştiricisi Halo Studios (eski adıyla 343 Industries)…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3876095d67_87248.jpg",
+      "published": "2026-09-23 12:30:00"
+    },
+    {
+      "title": "State Of Decay'in Yapımcısı İşten Çıkartmalara Başladı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/state-of-decayin-yapimcisi-isten-cikartmalara-basladi/detay",
+      "summary": "Xbox'ta yaprak dökümü devam ediyor. Obsidian'ın Bethesda'ya geçişinin ardından Undead Labs de tamamen serbest bırakıldı. State of Decay'in yaratıcısı olan…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab37bc795ed8_87244.jpg",
+      "published": "2026-09-23 13:05:00"
+    },
+    {
+      "title": "Starcraft, Tek Bir Platforma Özel Olmayacak",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/starcraft-tek-bir-platforma-ozel-olmayacak/detay",
+      "summary": "BlizzCon'da duyurular üst üste geldi. Ekranda yeni StarCraft'ı görüp heyecanı yaşamışken, 2030 tarihini gördüğümüzde dumura uğradık. Fakat en nihayetinde, yeni…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab25eb3c3c6c_87239.jpg",
+      "published": "2026-09-22 16:50:00"
+    },
+    {
+      "title": "Xbox'ta Bu Hafta Yeni Bir İşten Çıkarma Dalgası Bekleniyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/xboxta-bu-hafta-yeni-bir-isten-cikarma-dalgasi-bekleniyor/detay",
+      "summary": "The Information'ın haberine göre Xbox bu hafta içinde yüzlerce kişiyi daha işten çıkarmaya hazırlanıyor. Makalede Xbox'ın hangi stüdyolarının bundan…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab26269220ca_87240.jpg",
+      "published": "2026-09-22 16:30:00"
+    },
+    {
+      "title": "Rockstar'dan Modculara Uyarı: 'Lütfen Oyunumuza Saygı Duyun!'",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/rockstardan-modculara-uyari-lutfen-oyunumuza-saygi-duyun/detay",
+      "summary": "Rockstar, geçtiğimiz günlerde mod geliştiricilerine özel planladığı kural setini duyurdu. Kurallar içindeki dikkat çekici ifadeler ise gündem oldu. Bu mod…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab24a4a2b454_87236.jpg",
+      "published": "2026-09-22 14:30:00"
+    },
+    {
+      "title": "The Blood of Dawnwalker'ın İlk Büyük Güncellemesi Ekim Başında Gelecek",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/the-blood-of-dawnwalkerin-ilk-buyuk-guncellemesi-ekim-basinda-gelecek/detay",
+      "summary": "The Blood of Dawnwalker oyun yönetmeni Konrad Tomaszkiewicz, ekim ayının başında yayınlanması planlanan büyük güncelleme ve sonrasında oyuna gelecek çeşitli…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab24101a7bd3_87235.jpg",
+      "published": "2026-09-22 15:12:00"
+    },
+    {
+      "title": "Bungie Son Yıllardaki Gelişmelerden Dolayı Hayran Kitlesinden Özür Diledi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/bungie-son-yillardaki-gelismelerden-dolayi-hayran-kitlesinden-ozur-diledi/detay",
+      "summary": "Bungie bildiğiniz üzere son birkaç yıldır zor günler geçiriyor ve stüdyonun aldığı çeşitli kararlar oyuncu kitlesi arasında büyük tartışmalara yol açtı. Ancak…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab23b5c04ab3_87234.jpg",
+      "published": "2026-09-22 12:33:00"
+    },
+    {
+      "title": "Sonbaharda Çıkacağı Söylenen Blighted, Önümüzdeki Yıla Ertelendi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/sonbaharda-cikacagi-soylenen-blighted-onumuzdeki-yila-ertelendi/detay",
+      "summary": "Drinkbox Studios, daha önce Sonbahar aylarında çıkaracaklarını açıkladıkları Blighted'ı 2027'ye erteleme kararı aldıklarını duyurdu. Oyunun Steam…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab27baaa4f2f_87231.jpg",
+      "published": "2026-09-22 13:10:00"
+    },
+    {
+      "title": "Baldur's Gate 3'e Devasa Bir Yeni Bölge Ekleyen Mod Yayınlandı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/baldurs-gate-3e-devasa-bir-yeni-bolge-ekleyen-mod-yayinlandi/detay",
+      "summary": "Baldur's Gate 3 için halihazırda bir çok mod bulunuyor ama geçen gün yayınlanan bir mod şimdiye kadar gördüklerimizin çok ötesinde bir içeriğe sahip. \"Act Two…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab1000abcb66_87228.jpg",
+      "published": "2026-09-21 16:10:00"
+    },
+    {
+      "title": "Hideo Kojima, Physint'e Dair Eleştirilere Cevap Verdi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/hideo-kojima-physinte-dair-elestirilere-cevap-verdi/detay",
+      "summary": "Geçtiğimiz hafta, Sony'nin Kojima'nın PlayStation'a özel olarak geliştirdiği aksiyon casusluk oyunu Physint'ten çekildiğini öğrenmiştik ve oyunu Xbox havada…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0db2ab9ed2_87221.jpg",
+      "published": "2026-09-21 16:42:00"
+    },
+    {
+      "title": "Activision, Hile Dünyasının Büyüklüğünü Gözler Önüne Seren İstatistikler Paylaştı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/activision-hile-dunyasinin-buyuklugunu-gozler-onune-seren-istatistikler-paylasti/detay",
+      "summary": "Çoklu oyuncu modunun olduğu her oyunda mutlaka hile kullanan biri karşınıza çıkabiliyor. Buna son dönemlerin popüler oyunu Wardogs da, klasik FPS oyunları Apex…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0ebae42e59_87226.jpg",
+      "published": "2026-09-21 14:33:00"
+    },
+    {
+      "title": "Metis Creative Tarafından Geliştirilen WANE, Tokyo Game Show'da Gün Yüzüne Çıktı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/metis-creative-tarafindan-gelistirilen-wane-tokyo-game-showda-gun-yuzune-cikti/detay",
+      "summary": "PC Gaming Show Tokyo Direct'te duyurulan oyunlardan birisi de Metis Creative tarafından geliştirilen WANE oldu.&nbsp; {ogzvideo|type:ytb|id:Bx0v--MMzDw}…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0e28f8dc9e_87224.jpg",
+      "published": "2026-09-21 15:03:00"
+    },
+    {
+      "title": "Cairn'in Ertelenen DLC'sinin Çıkış Tarihi Belli Oldu",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/cairnin-ertelenen-dlcsinin-cikis-tarihi-belli-oldu/detay",
+      "summary": "Cairn, oldukça hoş bir konsepti yaratıcı mekanikler ile birleştirerek sevilmeyi başarmıştı. Oyunun merakla beklenen On The Trail: Deep Water ek paketi ise daha…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0de9738129_87223.jpg",
+      "published": "2026-09-21 12:30:00"
+    },
+    {
+      "title": "Meksika'daki Oyuncak Bebek Adası'ndan Esinlenen Oyun, Gerçekle Kurguyu Birbirine Karıştıracak",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/meksikadaki-oyuncak-bebek-adasindan-esinlenen-oyun-gercekle-kurguyu-birbirine-karistiracak/detay",
+      "summary": "Meksika'da dünyanın en korkunç adalarından biri olarak kabul edilen bir yer var. Orijinal ismi La Isla de las Munecas, bizdeki ismiyle Oyuncak Bebek Adası.…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0d4ff5dbd9_87220.jpg",
+      "published": "2026-09-21 13:00:00"
+    },
+    {
+      "title": "Edge of Eternity'nin Devam Oyunu Edge of Memories, Kasım Ayında Geliyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/edge-of-eternitynin-devam-oyunu-edge-of-memories-kasim-ayinda-geliyor/detay",
+      "summary": "Nacon ve Midgar Studio, geçtiğimiz yıl Edge of Eternity'nin devam oyunu Edge of Memories'i duyurmuşlardı. O zamanlarda oyunun 2025 sonlarında geleceği…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aad13390ad4b_87216.jpg",
+      "published": "2026-09-18 16:30:00"
+    },
+    {
+      "title": "Epic Store'un Sıradaki Ücretsiz Oyunları - Astrea: Six Sided Oracles ve Mechabellum",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/epic-storeun-siradaki-ucretsiz-oyunlari-astrea-six-sided-oracles-ve-mechabellum/detay",
+      "summary": "Epic Games Store'un haftalık ücretsiz oyunlar kampanyasında bu hafta Mindcop ve Shogun Showdown verilirken önümüzdeki hafta da 2 oyunla devam edilecek.…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacf62090d3b_87213.jpg",
+      "published": "2026-09-18 14:44:00"
+    },
+    {
+      "title": "Kojima'nın Yeni Oyunu Physint'in Başrolünde Bill Skarsgard Olacak",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/kojimanin-yeni-oyunu-physintin-basrolunde-bill-skarsgard-olacak/detay",
+      "summary": "Hideo Kojima, Sony'den Xbox'a geçen oyunu Physint'in başrolünde İsveçli aktör Bill Skarsgård'ın olacağını açıkladı. Kojima'nın paylaştığı yeni posterde Bill…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabc978305ee_87206.jpg",
+      "published": "2026-09-17 16:35:00"
+    },
+    {
+      "title": "Film İnceleme - Resident Evil",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/film-inceleme-resident-evil/detay",
+      "summary": "Resident Evil&rsquo;ın sinema macerası başlı başına garip bir vaka. Paul W.S. Anderson filmleri yıllar içerisinde oyunlardan iyice kopup Milla…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabc0c9a54de_87204.jpg",
+      "published": "2026-09-17 14:13:00"
+    },
+    {
+      "title": "Dragon Quest Serisinin Toplam Satışları 100 Milyonu Aştı!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/dragon-quest-serisinin-toplam-satislari-100-milyonu-asti/detay",
+      "summary": "En önemli JRYO serilerinden birisi olan Dragon Quest serisi 40 yıllık bir maziye sahip. Geride kalan 40 yıllık sürede birçok oyun, yan oyun, yeniden yapımla…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabbc3c77b93_87205.jpg",
+      "published": "2026-09-17 14:55:00"
+    },
+    {
+      "title": "Corsair, İlk Premium USB Oyun Mikrofonunu Tanıttı: Voxara",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/corsair-ilk-premium-usb-oyun-mikrofonunu-tanitti-voxara/detay",
+      "summary": "CORSAIR donanımının gücü ve Elgato yazılımının avantajlarıyla geliştirilen VOXARA, oyuncular ve yayıncılar için tasarlanmış üst düzey bir USB oyuncu mikrofonu.…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aab8c13c7b06_87198.jpg",
+      "published": "2026-09-17 12:20:00"
+    },
+    {
+      "title": "Build a Rocket Boy Resmen Kepenk İndiriyor!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/build-a-rocket-boy-resmen-kepenk-indiriyor/detay",
+      "summary": "MindsEye'ın geliştiricisi Build a Rocket Boy (BARB), oyun piyasaya sürüldüğünden beri diken üstünde. MindsEye'ın başarısızlığının yanı sıra stüdyonun…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aab9776b713c_87199.jpg",
+      "published": "2026-09-17 12:45:00"
+    },
+    {
+      "title": "Wardogs CEO'su: 'Mesai kötü ama zorunlu!\"",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/wardogs-ceosu-mesai-sevmeyen-studyoya-gelmesin/detay",
+      "summary": "Şu sıralar Steam'i Wardogs domine ediyor. Oyun bu kadar gündemdeyken geliştirici Bulkhead'in CEO'su Joe Brammer da bazı programlara konuk olarak açıklamalar…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa55ffbef89_87188.jpg",
+      "published": "2026-09-16 16:30:00"
+    },
+    {
+      "title": "Focus Entertainment, Gelen Tehditlerin Ardından Suç Duyurusunda Bulundu",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/focus-entertainment-gelen-tehditlerin-ardindan-suc-duyurusunda-bulundu/detay",
+      "summary": "İnternet artık hiçbirimiz için güvenli bir yer değil. Nefretin yüzde 200 seviyesine çıktığı 2026 yılında bir hakaret işitmeniz için çok fazla şey yapmanıza…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa69032db62_87191.jpg",
+      "published": "2026-09-16 14:37:00"
+    },
+    {
+      "title": "LEGO Türkiye, Çocukları Kendi Kahraman Hikayelerini Yazmaya Davet Ediyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/lego-turkiye-cocuklari-kendi-kahraman-hikayelerini-yazmaya-davet-ediyor/detay",
+      "summary": "Çocukların hayal gücünü yaratıcı oyunla buluşturan LEGO&reg; Türkiye; LEGO&reg; City ve LEGO&reg; NINJAGO&reg; dünyalarından ilham alan LEGO x Toyzz Shop…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa825fa574e_87195.jpg",
+      "published": "2026-09-16 15:10:00"
+    },
+    {
+      "title": "Total War: Shogun 2 - Complete Edition Duyuruldu!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/total-war-shogun-2-complete-edition-duyuruldu/detay",
+      "summary": "Total War hayranlarının yüzü gülmeye devam ediyor. Warhammer 40K'nın Gamescom'daki başarısının ardından Creative Assembly bir de remake duyurdu! Serinin en…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa6166defa4_87189.jpg",
+      "published": "2026-09-16 12:58:00"
+    },
+    {
+      "title": "007 First Light'ın Switch 2 Versiyonu Mart 2027'ye Ertelendi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/007-first-lightin-switch-2-versiyonu-mart-2027ye-ertelendi/detay",
+      "summary": "IO Interactive, 007 First Light'ın Switch 2 versiyonunu erteleme kararı almış. Aslında zaten beklenen bir gelişmeydi bu. Sonuçta yaz aylarında çıkacağı…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa91aacc1fa7_87184.jpg",
+      "published": "2026-09-15 16:13:00"
+    },
+    {
+      "title": "Redfall'un Yönetmeni: 'Asla Servis Oyunu Yapmamalıydık!'",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/redfallun-yonetmeni-asla-servis-oyunu-yapmamaliydik/detay",
+      "summary": "Redfall, Arkane için büyük bir trajedi olmuştu. Çıkış yaptığı an itibariyle tonlarca sorun yaşayan, çok kısa süre hayatta kalabilen oyun tarihin \"başarısız…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8f808356b8_87181.jpg",
+      "published": "2026-09-15 16:50:00"
+    },
+    {
+      "title": "Bungie, Marathon Planlarını Değiştiriyor!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/bungie-marathon-planlarini-degistiriyor/detay",
+      "summary": "Bungie'nin yeni oyunu Marathon sancılı bir geliştirme sürecinin ardından piyasaya sürüldüğünde umutlar oldukça yüksekti. Fakat gelinen noktada oyun, kemik…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8f4e4e3827_87180.jpg",
+      "published": "2026-09-15 14:13:00"
+    },
+    {
+      "title": "The Triple-i Initiative, 8 Ekim'de Geri Dönüyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/the-triple-i-initiative-8-ekimde-geri-donuyor/detay",
+      "summary": "Bağımsız oyunlara özel bir etkinlik olan The Triple-i Initiative, önümüzdeki ay geri dönmeye hazırlanıyor. Bu yılki programın gerçekleştirileceği tarih bir…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa91047da245_87183.jpg",
+      "published": "2026-09-15 14:50:00"
+    },
+    {
+      "title": "Diablo 5'te Paylaşımlı Açık Dünya Olacak Mı?",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/diablo-5-coklu-oyuncu-destegi-sunacak/detay",
+      "summary": "Geçtiğimiz hafta sonu düzenlenen BlizzCon, pek çok sürprize sahne oldu. Bu sürprizlerden biri de, 2029 yılında geleceği açıklanan Diablo 5. Şahsen kafamı…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7aff050333_87170.jpg",
+      "published": "2026-09-15 12:30:00"
+    },
+    {
+      "title": "Rayman Legends Retold, Aralık Ayına Ertelendi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/rayman-legends-retold-aralik-ayina-ertelendi/detay",
+      "summary": "Ubisoft, çıkışına 2 hafta kalan Rayman Legends Retold'un 2 ay ertelendiğini açıkladı. Gold olan oyunun biraz daha süreye ihtiyaç duyduğunu söylüyorlar. Rayman…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8e8367bbb8_87178.jpg",
+      "published": "2026-09-15 13:00:00"
+    },
+    {
+      "title": "Roblox Geliştiriciler Konferansı'nda Bir YouTuber Sahneye Atladı!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/roblox-gelistiriciler-konferansinda-bir-youtuber-sahneye-atladi/detay",
+      "summary": "Roblox, kendi topluluğundan da tepki çekmeye başladı. Uzun süredir üstünde kara bulutlar dolanan platform, bir skandalla daha gündemde. Her sene düzenlenen…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7b9e6ed7fc_87174.jpg",
+      "published": "2026-09-14 16:30:00"
+    },
+    {
+      "title": "Level 5 Patronu, Level 5 Sunumundaki Yoğun Yapay Zeka Kullanımını İçin Özür Diledi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/level-5-patronu-level-5-sunumundaki-yogun-yapay-zeka-kullanimini-icin-ozur-diledi/detay",
+      "summary": "Level 5'in geçen hafta düzenlediği Level 5 Digital Showcase sunumu, sunumun ardından oyuncuların cidden büyük tepkisiyle karşılaştı. Sunumda Level 5'ın sevilen…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a934a0612_87168.jpg",
+      "published": "2026-09-14 17:00:00"
+    },
+    {
+      "title": "Black File ile İstanbul'da Bir Dedektiflik Macerası Bizi Bekliyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/black-file-ile-istanbulda-bir-dedektiflik-macerasi-bizi-bekliyor/detay",
+      "summary": "Yerli oyunlar arasına katılmaya hazırlanan Black File, bizi İstanbul'da bir maceraya davet ediyor. {ogzvideo|type:ytb|id:lsb8jg1Mt7M} Black File,…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a98cee097_87169.jpg",
+      "published": "2026-09-14 14:30:00"
+    },
+    {
+      "title": "Blizzard, Yeni Diablo ve StarCraft Oyunlarını Erken Duyurmasının Sebebini Açıkladı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/blizzard-yeni-diablo-ve-starcraft-oyunlarini-erken-duyurmasinin-sebebini-acikladi/detay",
+      "summary": "Cumartesi akşamı Blizzcon 2026 açılış programı gerçekleştirildi. Programda gerçekten ses getirebilecek duyurulara da yer verildi. Bunların başında da yeni…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7be042eebc_87175.jpg",
+      "published": "2026-09-14 15:00:00"
+    },
+    {
+      "title": "Yerli Oyun Nuktedan, Alzheimer Farkındalığı Yaratmayı Hedefliyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/yerli-oyun-nuktedan-alzheimer-farkindaligi-yaratmayi-hedefliyor/detay",
+      "summary": "Yerli oyunlara incelemelerimizde ve haberlerde olabildiğince yer vermeye çalışıyoruz. Hepsinden bahsetmek gibi bir şansımız olamıyor ne yazık ki. Ama arada…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a8b0d6c82_87167.jpg",
+      "published": "2026-09-14 12:30:00"
+    },
+    {
+      "title": "Diablo 4 İçin Başka Bir Genişleme Paketi Çıkmayacak",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/diablo-4-icin-baska-bir-genisleme-paketi-cikmayacak/detay",
+      "summary": "Hafta sonu BlizzCon'da karşılaştığımız sürpriz Diablo 5 duyurusunun ardından Diablo 4'ün geleceğine dair de pek çok soru işareti ortaya çıktı ve bundan sonra…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7b3d800bb3_87172.jpg",
+      "published": "2026-09-14 13:00:00"
+    },
+    {
+      "title": "Doom Eternal, Amazon Prime'ın Eylül 2026 Oyunları Arasında Yerini Aldı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/doom-eternal-amazon-primein-eylul-2026-oyunlari-arasinda-yerini-aldi/detay",
+      "summary": "Amazon Luna (Prime Gaming) abonelerine bu ay boyunca verilecek oyunlar açıklandı. Aslında oyunların ilk grubu çoktan kütüphanede yerlerini aldı bile. Ama esas…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3c44203d39_87158.jpg",
+      "published": "2026-09-11 15:05:00"
+    },
+    {
+      "title": "Metroid Ravenous, Metroid Dread'i Geliştiren MercurySteam'in Elinden Gelecek",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/metroid-ravenous-metroid-dreadi-gelistiren-mercurysteamin-elinden-gelecek/detay",
+      "summary": "Metroid Dread&rsquo;in geliştiricisi MercurySteam, gizemli bir emoji mesajıyla yeni Metroid oyununun arkasındaki ekip olduğunu ima etti. Nintendo…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3a74562c2b_87152.jpg",
+      "published": "2026-09-11 15:35:00"
+    },
+    {
+      "title": "Banjo-Kazooie'nin Doğuşunu Sağlayan SNES Prototipi 30 Yıldan Sonra Ortaya Çıktı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/banjo-kazooienin-dogusunu-saglayan-snes-prototipi-30-yildan-sonra-ortaya-cikti/detay",
+      "summary": "Project Dream retro oyun dünyasının kutsal kaselerinden biri. Kendisi sonradan Banjo-Kazooie&rsquo;ye dönüşecek olan Dream: Land of Giants adlı RYO'nun kod…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3d08e728df_87160.jpg",
+      "published": "2026-09-11 16:03:00"
+    },
+    {
+      "title": "Marvel's Wolverine - İnceleme Puanları",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/marvels-wolverine-inceleme-puanlari/detay",
+      "summary": "Yıllarca merakla beklendi, en sonunda oyun severlerle buluşma vakti geldi, ama Marvel's Wolverine o beklentileri çok da karşılayamamış gibi görünüyor. En…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3f0a357012_87162.jpg",
+      "published": "2026-09-11 16:40:00"
+    },
+    {
+      "title": "The Witcher 3 Remastered Roach’u Düzeltiyor Ama İsteyen Eskiye Dönebilecek",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/the-witcher-3-remastered-roachu-duzeltiyor-ama-isteyen-eskiye-donebilecek/detay",
+      "summary": "CD Projekt Red, Roach&rsquo;un meşhur saçmalıklarını nihayet The Witcher 3 Remastered ile birlikte düzeltiyor ama \"eski Roach\"tan vazgeçemeyen oyuncular için…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3b56ea7247_87156.jpg",
+      "published": "2026-09-11 17:05:00"
+    },
+    {
+      "title": "İlk Bakış - Phantom Blade Zero",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/ilk-bakis-phantom-blade-zero/detay",
+      "summary": "Geçen yıl bu sayfalarda Phantom Blade Zero için &ldquo;Siz hiç Kung-Fu filmi çevirmek istemiş miydiniz?&rdquo; diye sormuşum. Aradan geçen zamanda S-GAME…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/11/content_6aa3e118b2f7d_87161.jpg",
+      "published": "2026-09-13 12:00:00"
+    },
+    {
+      "title": "Kingdom Come Deliverance'ın Yaratıcısı DLSS 5 Övmeye Devam Ediyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/kingdom-come-deliverancein-yaraticisi-dlss-5-ovmeye-devam-ediyor/detay",
+      "summary": "Kingdom Come Deliverance serisinin yaratıcısı, Warhorse'un patronu Daniel Vavra bundan yaklaşık iki hafta önce DLSS 5 konusundaki görüşlerini paylaşmış ve bu…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a13f80065_87165.jpg",
+      "published": "2026-09-14 12:00:00"
+    },
+    {
+      "title": "Evolve Geri Döndü!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/evolve-geri-dondu/detay",
+      "summary": "Evolve, \"iyi bir fikri nasıl batırabiliriz\" konulu bir derste örnek olarak gösterilebilecek bir oyun. İlk gösterildiği dönemlerde büyük ilgi çekmesine ve…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7a7c3980b3_87166.jpg",
+      "published": "2026-09-14 11:30:00"
+    },
+    {
+      "title": "Overwatch'un Yeni Karakteri Robotik Bir Vampir!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/overwatchun-yeni-karakteri-robotik-bir-vampir/detay",
+      "summary": "BlizzCon açılış programı bomba gibi sürprizlere ev sahipliği yaptı. Bu sürprizlerden biri de Overwatch'un yeni karakteri Doctrine oldu. Oldukça havalı bir…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7b3957613c_87171.jpg",
+      "published": "2026-09-14 14:00:00"
+    },
+    {
+      "title": "World of Warcraft: Forever, Klasik Seven Oyuncuların Yeni Evi Olacak",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/world-of-warcraft-forever-klasik-seven-oyuncularin-yeni-evi-olacak/detay",
+      "summary": "Blizzard, uzun süredir söylentileri dolaşan &ldquo;Classic+&rdquo; deneyimi World of Warcraft: Forever'ı resmen duyurdu. World of Warcraft: Forever, 4 Kasım'da…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7b76cc0ce5_87173.jpg",
+      "published": "2026-09-14 13:32:00"
+    },
+    {
+      "title": "Persona 4 Revival Tanıtım Fragmanları Teddie ile Devam Ediyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/persona-4-revival-tanitim-fragmanlari-teddie-ile-devam-ediyor/detay",
+      "summary": "Atlus, Persona 4 Revival tanıtımlarına kaldığı yerden devam ediyor. Bu seferki isim Teddie. {ogzvideo|type:ytb|id:y2djwToDGpI} Teddie, \"TV dünyasında yaşayan…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/14/content_6aa7c6dd78126_87176.jpg",
+      "published": "2026-09-14 16:00:00"
+    },
+    {
+      "title": "Widow's Bay, Primetime Emmy Ödüllerini Silip Süpürdü",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/widows-bay-primetime-emmy-odullerini-silip-supurdu/detay",
+      "summary": "78. Primetime Emmy Ödülleri dün gece düzenlenen törenle sahiplerini buldu. Apple TV'de yayınlanan komedi-korku dizisi Widow's Bay tam 14 ödülle gecenin yıldızı…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8e7c262ffc_87177.jpg",
+      "published": "2026-09-15 12:00:00"
+    },
+    {
+      "title": "Apple Nihayet Apple TV’yi Ülkemizde Kullanıma Sunuyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/apple-nihayet-apple-tvyi-ulkemizde-kullanima-sunuyor/detay",
+      "summary": "Apple, servis ekosisteminde yapılandırmaya giderek aralarında Türkiye'nin de bulunduğu çeşitli pazarlarda iCloud+ paketinin kapsamını genişletti. Yapılan bu…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa8eff726389_87179.jpg",
+      "published": "2026-09-15 11:30:00"
+    },
+    {
+      "title": "The Last Of Us 2'nin Multiplayer Moduna Sony'den Ret!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/the-last-of-us-2nin-multiplayer-moduna-sonyden-ret/detay",
+      "summary": "Mod dünyası için üzücü bir haber daha.&nbsp;The Last of Us Part 2'nin PC versiyonu için geliştirilen PvP modu, Sony'nin isteği ile rafa kaldırıldı. Modu…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/15/content_6aa9033b647c1_87182.jpg",
+      "published": "2026-09-15 13:40:00"
+    },
+    {
+      "title": "Injustice 3 İçin Testlere Başlandığı İddia Ediliyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/injustice-3-icin-testlere-baslandigi-iddia-ediliyor/detay",
+      "summary": "NetherRealm henüz sıradaki projesini açıklamadı ama bunun uzun süredir beklediğimiz yeni Injustice oyunu olacağına kesin gözüyle bakılıyor. 2017 tarihli…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa462677618_87187.jpg",
+      "published": "2026-09-16 12:10:00"
+    },
+    {
+      "title": "XBOX Game Pass Eylül 2026 Oyunlarının 2. Grubu Açıklandı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/xbox-game-pass-eylul-2026-oyunlarinin-2-grubu-aciklandi/detay",
+      "summary": "Eylül ayının 2. yarısına adım atarken bu ayın Game Pass oyunlarının 2. grubu da açıklandı.&nbsp; Tahmin edilebileceği gibi listenin öne çıkan oyunu bizi…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa3fc0a2bc7_87186.jpg",
+      "published": "2026-09-16 11:35:00"
+    },
+    {
+      "title": "Wo Long 2: Wings of Ember, Mart 2027 Oyunları Arasında Yerini Aldı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/wo-long-2-wings-of-ember-mart-2027-oyunlari-arasinda-yerini-aldi/detay",
+      "summary": "XBOX Games Showcase 2026'da paylaşılan fragmanla, Koei Tecmo'nun soulslike oyunlarından Wo Long'un&nbsp;devam oyununun geleceğini öğrenmiştik. Wo Long 2: Wings…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa674a189b3_87190.jpg",
+      "published": "2026-09-16 14:00:00"
+    },
+    {
+      "title": "Denuvo, voices38'in Peşine Düştü",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/denuvo-voices38in-pesine-dustu/detay",
+      "summary": "Denuvo, ABD&rsquo;de açtığı davayla anonim cracker &lsquo;voices38&rsquo;ın peşine düştü. Denuvo voices38'i aralarında Hogwarts Legacy, Black Myth: Wukong,…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa6a45cfe1d_87192.jpg",
+      "published": "2026-09-16 13:30:00"
+    },
+    {
+      "title": "Overwatch'un Kozmetik 'Odağı' Değişiyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/overwatchun-kozmetik-odagi-degisiyor/detay",
+      "summary": "Karakter temelli oyunların en büyük sorunu ortaya favorilerin çıkıyor olması. Bu durum Rainbow Six Siege için de aynı, Overwatch için de. Haliyle…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa6b25cf095_87193.jpg",
+      "published": "2026-09-16 15:55:00"
+    },
+    {
+      "title": "Kemuri'den TGS 2026 Öncesinde Yeni Fragman Geldi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/kemuriden-tgs-2026-oncesinde-yeni-fragman-geldi/detay",
+      "summary": "Ikumi Nakamura'nın yeni stüdyosu UNSEEN, ilk oyunları Kemuri ile karşımıza çıkmaya hazırlanıyor malum. Tokyo Game Show 2026'da da yerlerini alacaklar ve…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/16/content_6aaa7fb92b139_87194.jpg",
+      "published": "2026-09-16 15:25:00"
+    },
+    {
+      "title": "Hyper Light Serisinin Yapımcısı Neredeyse Tüm Ekibini İşten Çıkarttı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/hyper-light-serisinin-yapimcisi-neredeyse-tum-ekibini-isten-cikartti/detay",
+      "summary": "Hyper Light serisinin yapımcısı Heart Machine, çok zor bir dönemden geçiyor. Adı açıklanmayan bir yayıncı ile el sıkışarak bir proje üzerinde çalışmaya…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aab856d0e169_87197.jpg",
+      "published": "2026-09-17 11:46:00"
+    },
+    {
+      "title": "Yeni AB Yasasına Epic CEO'su Tim Sweeney'den Tepki Geldi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/yeni-ab-yasasina-epic-ceosu-tim-sweeneyden-tepki-geldi/detay",
+      "summary": "Epic CEO'su Tim Sweeney, Avrupa Birliği'nin \"14 yaş\" yasa tasarısına yoğun eleştiriler getirdi. AB Komisyonu'nun görüşeceği yeni 14 yaş yasa tasarısı; 14 yaşın…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aaba2c1e3a28_87201.jpg",
+      "published": "2026-09-17 13:45:00"
+    },
+    {
+      "title": "Trails in the Sky 2nd Chapter - İnceleme Puanları",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/trails-in-the-sky-2nd-chapter-inceleme-puanlari/detay",
+      "summary": "Trails in the Sky 2nd Chapter, bu yılın en iddialı JRYO'larından dersem herhalde çok itiraz eden olmaz. Geçtiğimiz yıl Trails in the Sky 1st Chapter'ın…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aab97f84f411_87200.jpg",
+      "published": "2026-09-17 13:15:00"
+    },
+    {
+      "title": "The Blood of Dawnwalker'ın Devam Oyununda Zaman Mekaniği Olmayabilir",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/the-blood-of-dawnwalkerin-devam-oyununda-zaman-mekanigi-olmayabilir/detay",
+      "summary": "Rebel Wolves tarafından geliştirilen The Blood of Dawnwalker'ın en çok tartışılan özelliklerinden biri olan zaman mekaniğinin serinin geleceğinde devam edip…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabb61f45dba_87203.jpg",
+      "published": "2026-09-17 16:00:00"
+    },
+    {
+      "title": "1001 Threads of Mizan'dan 16 Dakikalık Oynanış Videosu",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/1001-threads-of-mizandan-16-dakikalik-oynanis-videosu/detay",
+      "summary": "MBC Game Studio, 1001 Threads of Mizan'ın demosunu Gamescom 2026'da ziyaretçilere sunmuşlardı. Gamescom'a katılamayanlar için de o demonun oynanış videosunu…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/17/content_6aabb13a4d16e_87202.jpg",
+      "published": "2026-09-17 15:30:00"
+    },
+    {
+      "title": "Valor Mortis, Kalabalık Takvimde Bütçe Yormamak İçin 40$'dan Satışa Çıkacak",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/valor-mortis-kalabalik-takvimde-butce-yormamak-icin-40dan-satisa-cikacak/detay",
+      "summary": "Ghostrunner'ın geliştiricisi One More Level'in yeni birinci şahıs soulslike oyunu Valor Mortis, 13 Ekim'de PC, PS5 ve Xbox Series için çıkacak. Geliştirici…",
+      "image": null,
+      "published": "2026-09-18 12:00:00"
+    },
+    {
+      "title": "GTA 6'nın 34 Şarkılık Soundtrack'i Duyuruldu",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/gta-6nin-34-sarkilik-soundtracki-duyuruldu/detay",
+      "summary": "Grand Theft Auto serisini özel kılan detaylardan biri şarkılarıdır. Haliyle oyunun tutkunları olarak fragmanda yayınlanan şarkıların devamını merak ediyorduk.…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacf4737cf72_87211.jpg",
+      "published": "2026-09-18 11:32:00"
+    },
+    {
+      "title": "Fire Emblem: Fortune's Weave - İnceleme Puanları",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/fire-emblem-fortunes-weave-inceleme-puanlari/detay",
+      "summary": "Serinin hayranlarının merakla beklediği Fire Emblem: Fortune's Weave, dün itibarıyla oyun severlerin beğenisine sunuldu. İncelemeler, beklentileri karşılayan…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aad061dce2ec_87215.jpg",
+      "published": "2026-09-18 14:10:00"
+    },
+    {
+      "title": "WoW: Forever'ın Betası Oyuncuları Eski Günlere Götürdü",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/wow-foreverin-betasi-oyunculari-eski-gunlere-goturdu/detay",
+      "summary": "WoW Classic'in \"modernize\" edilmiş versiyonu WoW: Forever'ın betası resmen başladı. Beta süreci, oyuncuları eski günlere götürecek dev bekleme süreleriyle…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aace802d12bb_87208.jpg",
+      "published": "2026-09-18 13:40:00"
+    },
+    {
+      "title": "Backrooms'un Yönetmeni Bu Yıl İkinci Valve Ziyaretini Gerçekleştirdi",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/backroomsun-yonetmeni-bu-yil-ikinci-valve-ziyaretini-gerceklestirdi/detay",
+      "summary": "Kane Parsons, YouTube serisi Backrooms ile birlikte büyük bir üne kavuştu. Ardından bu YouTube serisini beyaz perdeye taşıyarak oldukça olumlu geri dönüşler…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacf5fe3887a_87212.jpg",
+      "published": "2026-09-18 13:07:00"
+    },
+    {
+      "title": "Twitch CEO'su GTA 6 Online'ın 2027'de Geleceğini Öne Sürdü!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/twitch-ceosu-gta-6-onlinein-2027de-gelecegini-one-surdu/detay",
+      "summary": "GTA 6 için resmi olarak geri sayıma başladık. Oyun dünyasını köklerinden sarsması beklenen GTA 6'nın, çoklu oyuncu modu da merak konusu.&nbsp; GTA 5 Online,…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacea5b579fe_87209.jpg",
+      "published": "2026-09-18 12:33:00"
+    },
+    {
+      "title": "Resident Evil Filmi Rotten Tomatoes Tarihinin En Yüksek Puanlı Video Oyun Uyarlaması Oldu",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/resident-evil-filmi-rotten-tomatoes-tarihinin-en-yuksek-puanli-video-oyun-uyarlamasi-oldu/detay",
+      "summary": "Zach Cregger'ın bugün vizyona giren Resident Evil filmi geçtiğimiz günlerde eleştirmenlerle buluşmuştu ve şu ana kadar filme gelen puanlar son derece olumlu.…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/18/content_6aacfe716b525_87214.jpg",
+      "published": "2026-09-18 15:50:00"
+    },
+    {
+      "title": "Wardogs, Arc Raiders ve Helldivers 2'den Bile Daha İyi Bir Çıkış Yaptı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/wardogs-arc-raiders-ve-helldivers-2den-bile-daha-iyi-bir-cikis-yapti/detay",
+      "summary": "Wardogs, Steam'de yakaladığı çıkış ivmesiyle 2026'nın en büyük PC başarı hikayelerinden birine imza attı. Alinea Analytics analisti Rhys Elliott'un verilerine…",
+      "image": null,
+      "published": "2026-09-18 15:20:00"
+    },
+    {
+      "title": "Blizzard Çalışanları, WoW: Forever'ın Betasının Gördüğü İlgiden Şaşkın!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/blizzard-calisanlari-wow-foreverin-betasinin-gordugu-ilgiden-saskin/detay",
+      "summary": "İnsanlar iyi bir MMO'ya aç olduğunu bir kez daha gösterdi. Geçtiğimiz günlerde resmen duyurulan World of Warcraft: Forever, beta sürecinde bile dikkat çekici…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0dc1854ad5_87222.jpg",
+      "published": "2026-09-21 12:00:00"
+    },
+    {
+      "title": "Control Resonant - İnceleme Puanları",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/control-resonant-inceleme-puanlari/detay",
+      "summary": "Control Resonant'ın çıkışına 3 gün kadar bir süre kaldı. Ama inceleme ambargosu erkenden kalktı ve incelemeler peş peşe paylaşılmaya başlandı. Ortalama puanlar…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0d2a9a9e63_87219.jpg",
+      "published": "2026-09-21 11:30:00"
+    },
+    {
+      "title": "Disney+ Tüm Abonelik Planlarında Reklam Uygulamasına Geçiyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/disney-tum-abonelik-planlarinda-reklam-uygulamasina-geciyor/detay",
+      "summary": "Disney+, kullanıcı sözleşmesinde ufak bir değişiklik yaptı ve bu değişikliğe göre kullanıcı sözleşmesini onayladığınızda tüm abonelik paketlerinde reklam…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0e3e5291aa_87225.jpg",
+      "published": "2026-09-21 14:00:00"
+    },
+    {
+      "title": "Elden Ring Nightreign, Modcuların Desteği İle Yaşıyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/elden-ring-nightreign-modcularin-destegi-ile-yasiyor/detay",
+      "summary": "FromSoftware, resmi olarak açıklamasa da Elden Rig Nightreign'e verdiği desteği sonlandırmış gibi görünüyor. Uzun süredir içerik güncellemesi almayan oyunu ise…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab0edfae021d_87227.jpg",
+      "published": "2026-09-21 13:30:00"
+    },
+    {
+      "title": "Silent Hill: Townfall - İnceleme Puanları",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/silent-hill-townfall-inceleme-puanlari/detay",
+      "summary": "Bu yılın Silent Hill oyunu Silent Hill: Townfall, 3 gün sonra oyun severlerle buluşmaya hazırlanıyor. İnceleme ambargosu da bugün itibarıyla kalktı. İlk…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab101bb928e2_87229.jpg",
+      "published": "2026-09-21 15:35:00"
+    },
+    {
+      "title": "Cronos: Lazarus'tan Oynanış Videosu",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/cronos-lazarustan-oynanis-videosu/detay",
+      "summary": "Cronos: The New Dawn'un ek paketi Cronos: Lazarus'tan bir oynanış videosu paylaşıldı. {ogzvideo|type:ytb|id:sMEmROx_EMs} Cronos: Lazarus, ana oyunun hikâyesine…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab22b53b1c9e_87232.jpg",
+      "published": "2026-09-22 12:00:00"
+    },
+    {
+      "title": "Atelier Karia Tanıtımları Rutger ve Lenja Fragmanıyla Devam Ediyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/atelier-karia-tanitimlari-rutger-ve-lenja-fragmaniyla-devam-ediyor/detay",
+      "summary": "Atelier serisinin yeni halkası Atelier Karia: The Night Kingdom &amp; the Guide of Memories, bu sefer de Rutger ve Lenja fragmanıyla karşımızda:&nbsp;…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/21/content_6ab11dd6065e6_87230.jpg",
+      "published": "2026-09-22 11:30:00"
+    },
+    {
+      "title": "Take-Two, NBA 2K Davasında Kendini Savundu: 'Satın Aldığınız Şeyler Size Ait Değil'",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/take-two-nba-2k-davasinda-kendini-savundu-satin-aldiginiz-seyler-size-ait-degil/detay",
+      "summary": "NBA'i çok sevsem de 2K oyunlarına ilgimi 2K21'den sonra bitirdim. Açık konuşayım, bu oyunlarda sadece kariyer modunu oynadığım için ve yeni nesil oyunlarda her…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab25239e9f5f_87238.jpg",
+      "published": "2026-09-22 13:56:00"
+    },
+    {
+      "title": "Blizzard, WoW Forever'da Altın Satışına Kapıyı Kapattı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/blizzard-wow-foreverda-altin-satisina-kapiyi-kapatti/detay",
+      "summary": "World of Warcraft'ın ilk günleri, oyun dünyasında yeni bir gelir kapısının açılmasına neden olmuştu. Oyuncular siteler üzerinden altın satışı yapabiliyor ve…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/22/content_6ab24ed625fc4_87237.jpg",
+      "published": "2026-09-22 15:42:00"
+    },
+    {
+      "title": "Hellblade'in Geliştiricisi Ninja Theory İçin Yolun Sonu Göründü",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/hellbladein-gelistiricisi-ninja-theory-icin-yolun-sonu-gorundu/detay",
+      "summary": "Hellblade serisinin geliştiricisi Ninja Theory, Xbox'taki son resetlenme dalgasının ardından kapatılacak stüdyolar listesine girmiş oldu. Xbox CCO'su Matt…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3846090b99_87246.jpg",
+      "published": "2026-09-23 12:00:00"
+    },
+    {
+      "title": "Xbox Resetlenmeye Devam Ediyor: Obsidian, Bethesda Bünyesine Geçti",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/xbox-resetlenmeye-devam-ediyor-obsidian-bethesda-bunyesine-gecti/detay",
+      "summary": "Dünkü Xbox'ta yeni işten çıkarmalar bekleniyor haberimizden sadece saatler sonra Matt Booty tarafından yapılan açıklama Xbox'ta ikinci resetlenme aşamasına…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3738e4d05a_87241.jpg",
+      "published": "2026-09-23 11:30:00"
+    },
+    {
+      "title": "CS2'ye Dev Güncelleme!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/cs2ye-dev-guncelleme/detay",
+      "summary": "FPS dünyasında kartlar yeniden dağıtılıyor. Valve, Counter-Strike 2'ye dev bir güncelleme getirdi. Güncelleme beraberinde yeni oyun modu Rush'ı getirecek. Uzun…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3852fcecd1_87247.jpg",
+      "published": "2026-09-23 14:07:00"
+    },
+    {
+      "title": "Darkwing Duck, Yıldız Seslendirme Kadrosuyla Geri Dönüyor!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/darkwing-duck-yildiz-seslendirme-kadrosuyla-geri-donuyor/detay",
+      "summary": "Variety'nin haberine göre Disney+ Darkwing Duck çizgi dizisinin reboot versiyonunu sipariş etmiş durumda! Aslında bundan altı yıl önce bu proje gündeme…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab376efd7478_87243.jpg",
+      "published": "2026-09-23 13:35:00"
+    },
+    {
+      "title": "Dancing with Ghosts, 2 Hafta Sonra Erken Erişime Çıkıyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/dancing-with-ghosts-2-hafta-sonra-erken-erisime-cikiyor/detay",
+      "summary": "Dancing with Ghosts'un erken erişim tarihi bir fragmanla ilan edildi, 2 hafta sonra oyun severlerle buluşmaya hazırlanıyor. {ogzvideo|type:ytb|id:DffSC0hIpvA}…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab3a76c4f6bb_87252.jpg",
+      "published": "2026-09-23 16:00:00"
+    },
+    {
+      "title": "People Playground Oyuncuları Dikkat: PC'nize Malware Girmiş Olabilir!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/people-playground-oyunculari-dikkat-pcnize-malware-girmis-olabilir/detay",
+      "summary": "Steam Atölyesi bu yıl ikinci kez bir \"malware\" saldırısı ile gündemde. Geçtiğimiz aylarda Wallpaper Engine'in yaşadığına benzer bir durum, oldukça popüler bir…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab37f6c4b142_87245.jpg",
+      "published": "2026-09-23 15:30:00"
+    },
+    {
+      "title": "Gears of War: E-Day'in Hikaye Yönetmeni, Oyunu Tamamladıktan Dört Gün Sonra Kovuldu",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/gears-of-war-e-dayin-hikaye-yonetmeni-oyunu-tamamladiktan-dort-gun-sonra-kovuldu/detay",
+      "summary": "Yakında çıkacak olan Gears of War: E-Day'in hikaye yönetmeni Juan Vaca, Xbox'ın yeni resetlenme hamlesinde işini kaybeden yüzlerce isimden birisi. Vaca bundan…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/23/content_6ab374e6b11b7_87242.jpg",
+      "published": "2026-09-23 17:20:00"
+    },
+    {
+      "title": "Clive Barker’s Hellraiser: Revival'dan Yeni Bir Oynanış Videosu Paylaşıldı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/clive-barkers-hellraiser-revivaldan-yeni-bir-oynanis-videosu-paylasildi/detay",
+      "summary": "Saber Interactive, 2 hafta sonra oyun severlerle buluşacak Clive Barker&rsquo;s Hellraiser: Revival'dan yaklaşık 4 dakikalık yeni bir oynanış videosu paylaştı:…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4e34a424e9_87256.jpg",
+      "published": "2026-09-24 12:10:00"
+    },
+    {
+      "title": "Bethesda, Obsidian'ın Yaratıcı Kimliğini Koruyacağını Söylüyor",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/bethesda-obsidianin-yaratici-kimligini-koruyacagini-soyluyor/detay",
+      "summary": "Xbox'ın devam eden yeniden yapılanması sürecinde Obsidian Entertainment, Bethesda'nın çatısı altına taşındı bildiğiniz üzere. Bu habere çoğumuz olumsuz tepki…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4e9402bfb7_87258.jpg",
+      "published": "2026-09-24 14:00:00"
+    },
+    {
+      "title": "Quake Champions, 9 Yıl Sonra Ücretli Oldu!",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/quake-champions-9-yil-sonra-ucretli-oldu/detay",
+      "summary": "Tam 9 yıldır hayatımızda olan Quake Champions \"servis oyunu\" hissiyatını üstünden atmaya karar verdi. Yıllardır tamamen ücretsiz olarak oynanabilen oyun,…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4e51dcbddc_87257.jpg",
+      "published": "2026-09-24 13:25:00"
+    },
+    {
+      "title": "Discord Mahremiyet İhlali Yapmayan Yaş Doğrulama Sistemini Devreye Aldı",
+      "category": "Genel",
+      "source": "Oyungezer",
+      "url": "https://oyungezer.com.tr/haber/discord-mahremiyet-ihlali-yapmayan-yas-dogrulama-sistemini-devreye-aldi/detay",
+      "summary": "Discord, geçtiğimiz aylarda tartışma yaratan yaş doğrulama sistemini ertelemişti. Bu sistemin tartışma yaratmasının sebebi mahremiyeti ihlal eden yöntemler…",
+      "image": "//storage.oyungezer.com.tr/ogz-public/public/content/2026/09/24/content_6ab4dadfb8f83_87255.jpg",
+      "published": "2026-09-24 15:50:00"
     },
     {
       "title": "Valorant Cross Kopyalama Nasıl Yapılır?",
